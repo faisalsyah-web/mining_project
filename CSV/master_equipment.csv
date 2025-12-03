@@ -1,61 +1,501 @@
-equipment_id,equipment_type,capacity_ton,purchase_date,status,fuel_rate_lph
-EQ001,truck,74.49,2020-04-17,active,11.96
-EQ002,truck,42.04,2017-07-09,active,18.09
-EQ003,truck,78.93,2019-08-02,active,10.65
-EQ004,truck,100.94,2023-02-16,active,38.37
-EQ005,truck,20.65,2021-10-05,active,37.29
-EQ006,truck,100.58,2023-03-02,maintenance,37.15
-EQ007,truck,89.81,2021-12-18,active,25.96
-EQ008,truck,54.03,2018-06-08,active,22.1
-EQ009,truck,35.55,2018-09-08,active,8.92
-EQ010,truck,115.72,2021-10-13,active,17.7
-EQ011,truck,53.66,2018-03-05,active,39.49
-EQ012,truck,29.27,2019-12-05,active,33.24
-EQ013,truck,29.67,2018-03-09,active,13.38
-EQ014,truck,104.75,2020-04-02,active,13.43
-EQ015,truck,80.37,2020-09-02,active,24.86
-EQ016,truck,100.71,2022-04-09,active,7.76
-EQ017,truck,92.97,2023-03-07,active,30.62
-EQ018,truck,73.62,2019-01-06,active,33.56
-EQ019,truck,117.31,2019-03-13,active,39.23
-EQ020,truck,57.85,2023-09-17,active,23.64
-EQ021,excavator,46.4,2024-03-15,active,9.4
-EQ022,excavator,67.21,2023-07-02,maintenance,28.09
-EQ023,excavator,51.39,2023-01-06,active,38.14
-EQ024,excavator,69.63,2017-09-10,active,10.78
-EQ025,excavator,48.3,2022-12-08,active,23.47
-EQ026,excavator,57.84,2017-02-05,active,26.23
-EQ027,excavator,8.44,2019-12-30,active,38.75
-EQ028,excavator,22.09,2018-01-16,active,37.51
-EQ029,excavator,26.7,2024-01-07,active,31.43
-EQ030,excavator,10.98,2020-05-31,maintenance,29.15
-EQ031,excavator,22.46,2020-06-13,active,29.95
-EQ032,excavator,12.58,2018-01-18,active,18.96
-EQ033,excavator,25.85,2019-06-25,maintenance,28.51
-EQ034,excavator,52.68,2018-10-18,active,18.07
-EQ035,excavator,32.36,2021-11-29,active,36.49
-EQ036,excavator,32.76,2018-07-11,maintenance,20.8
-EQ037,excavator,20.71,2024-08-07,active,13.68
-EQ038,excavator,25.02,2017-02-06,active,7.24
-EQ039,excavator,75.25,2023-06-12,maintenance,5.74
-EQ040,excavator,53.6,2017-01-31,active,24.39
-EQ041,crusher,809.13,2018-09-16,active,25.6
-EQ042,crusher,371.14,2021-09-27,active,5.25
-EQ043,crusher,929.13,2017-07-17,active,29.77
-EQ044,crusher,363.4,2020-11-30,active,7.06
-EQ045,crusher,579.46,2023-06-25,maintenance,7.36
-EQ046,crusher,1189.52,2021-06-09,active,6.1
-EQ047,crusher,840.0,2019-11-09,active,16.56
-EQ048,crusher,756.95,2022-12-16,active,23.0
-EQ049,crusher,884.61,2019-08-23,active,14.75
-EQ050,crusher,1042.85,2024-09-10,active,21.99
-EQ051,crusher,976.0,2021-10-11,active,23.87
-EQ052,crusher,429.05,2019-02-12,maintenance,30.32
-EQ053,crusher,232.1,2022-09-23,active,35.88
-EQ054,crusher,515.45,2019-01-14,active,25.17
-EQ055,crusher,467.74,2023-07-16,active,13.5
-EQ056,crusher,410.98,2017-09-19,active,21.55
-EQ057,crusher,1142.91,2021-05-20,retired,19.25
-EQ058,crusher,1076.37,2017-07-25,retired,8.3
-EQ059,crusher,514.68,2019-01-14,active,28.06
-EQ060,crusher,855.44,2017-11-25,active,17.4
+equipment_id,jenis,kapasitas_ton,status,tanggal_beli
+1,Loader,68,Operasional,2023-07-06
+2,Excavator,28,Maintenance,2024-12-07
+3,Dump Truck,159,Operasional,2024-04-30
+4,Loader,141,Maintenance,2023-04-08
+5,Loader,160,Operasional,2024-02-18
+6,Dump Truck,131,Maintenance,2024-09-09
+7,Dump Truck,176,Maintenance,2024-05-18
+8,Dump Truck,143,Maintenance,2024-08-09
+9,Dump Truck,179,Operasional,2024-12-22
+10,Loader,144,Operasional,2023-06-18
+11,Loader,198,Operasional,2023-01-15
+12,Excavator,24,Maintenance,2023-06-03
+13,Excavator,139,Maintenance,2024-05-30
+14,Excavator,110,Maintenance,2023-11-11
+15,Dump Truck,94,Maintenance,2024-05-26
+16,Dump Truck,124,Maintenance,2024-09-04
+17,Dump Truck,50,Operasional,2023-04-29
+18,Loader,73,Operasional,2023-06-19
+19,Loader,34,Maintenance,2023-06-11
+20,Excavator,88,Operasional,2023-10-12
+21,Excavator,110,Operasional,2024-02-03
+22,Excavator,47,Operasional,2024-07-21
+23,Excavator,74,Operasional,2024-02-24
+24,Dump Truck,50,Operasional,2023-12-07
+25,Excavator,47,Maintenance,2023-03-26
+26,Loader,180,Operasional,2023-01-19
+27,Excavator,95,Operasional,2023-04-14
+28,Dump Truck,57,Maintenance,2023-03-24
+29,Loader,159,Operasional,2023-08-15
+30,Loader,42,Operasional,2024-12-21
+31,Loader,137,Maintenance,2023-02-22
+32,Excavator,148,Operasional,2024-04-29
+33,Excavator,43,Operasional,2024-02-27
+34,Dump Truck,127,Operasional,2024-05-24
+35,Dump Truck,82,Maintenance,2024-05-29
+36,Loader,194,Operasional,2023-03-26
+37,Loader,189,Maintenance,2024-10-15
+38,Excavator,74,Operasional,2024-10-28
+39,Excavator,135,Operasional,2023-04-22
+40,Excavator,190,Operasional,2023-08-02
+41,Excavator,186,Maintenance,2024-02-01
+42,Dump Truck,52,Operasional,2023-08-30
+43,Loader,79,Operasional,2024-06-01
+44,Excavator,72,Maintenance,2024-08-28
+45,Excavator,113,Maintenance,2023-02-18
+46,Loader,108,Operasional,2024-11-11
+47,Loader,32,Maintenance,2023-12-28
+48,Loader,26,Maintenance,2024-08-06
+49,Loader,47,Maintenance,2023-12-06
+50,Excavator,36,Maintenance,2023-07-05
+51,Dump Truck,194,Maintenance,2024-09-09
+52,Loader,188,Operasional,2024-08-21
+53,Loader,108,Maintenance,2023-01-24
+54,Loader,130,Maintenance,2023-08-03
+55,Dump Truck,96,Operasional,2024-12-09
+56,Loader,181,Operasional,2023-12-16
+57,Excavator,138,Operasional,2023-03-08
+58,Excavator,195,Maintenance,2024-08-20
+59,Loader,130,Operasional,2024-07-07
+60,Excavator,120,Maintenance,2024-03-13
+61,Excavator,131,Maintenance,2023-10-15
+62,Loader,22,Maintenance,2023-04-05
+63,Excavator,39,Operasional,2024-07-28
+64,Loader,58,Operasional,2023-04-21
+65,Dump Truck,92,Operasional,2023-05-28
+66,Loader,189,Operasional,2023-07-17
+67,Excavator,66,Operasional,2024-09-11
+68,Dump Truck,110,Operasional,2023-06-05
+69,Excavator,122,Maintenance,2023-01-20
+70,Excavator,54,Maintenance,2024-11-02
+71,Dump Truck,105,Operasional,2024-07-10
+72,Dump Truck,70,Operasional,2023-05-19
+73,Dump Truck,39,Maintenance,2024-02-18
+74,Excavator,185,Maintenance,2024-05-20
+75,Dump Truck,95,Maintenance,2024-12-16
+76,Dump Truck,143,Maintenance,2024-11-17
+77,Loader,65,Operasional,2023-12-11
+78,Dump Truck,39,Operasional,2023-09-11
+79,Loader,138,Operasional,2024-09-09
+80,Dump Truck,160,Maintenance,2023-08-09
+81,Dump Truck,97,Maintenance,2024-07-27
+82,Dump Truck,20,Operasional,2024-06-22
+83,Excavator,128,Maintenance,2023-04-01
+84,Dump Truck,135,Maintenance,2024-11-28
+85,Loader,50,Maintenance,2023-02-02
+86,Excavator,168,Operasional,2023-09-24
+87,Excavator,38,Operasional,2023-04-05
+88,Excavator,68,Operasional,2024-06-04
+89,Dump Truck,40,Maintenance,2023-09-09
+90,Dump Truck,195,Maintenance,2024-05-19
+91,Dump Truck,76,Operasional,2024-10-07
+92,Dump Truck,143,Maintenance,2024-09-07
+93,Dump Truck,184,Operasional,2023-04-15
+94,Dump Truck,101,Maintenance,2023-12-14
+95,Excavator,190,Maintenance,2024-12-15
+96,Dump Truck,131,Maintenance,2024-12-02
+97,Loader,108,Operasional,2023-01-01
+98,Excavator,146,Operasional,2024-09-28
+99,Dump Truck,165,Operasional,2023-01-30
+100,Dump Truck,82,Operasional,2024-06-06
+101,Loader,192,Operasional,2024-07-22
+102,Dump Truck,185,Operasional,2024-06-16
+103,Loader,79,Operasional,2024-09-04
+104,Loader,169,Maintenance,2023-04-19
+105,Excavator,164,Maintenance,2023-05-04
+106,Loader,61,Operasional,2023-05-02
+107,Dump Truck,179,Maintenance,2023-07-03
+108,Loader,155,Operasional,2024-08-23
+109,Dump Truck,181,Operasional,2024-11-03
+110,Dump Truck,163,Operasional,2024-05-18
+111,Loader,176,Maintenance,2023-10-02
+112,Loader,120,Operasional,2023-02-27
+113,Excavator,63,Operasional,2024-06-09
+114,Loader,21,Maintenance,2023-05-31
+115,Loader,83,Maintenance,2024-01-28
+116,Loader,124,Maintenance,2024-10-10
+117,Dump Truck,90,Maintenance,2024-08-08
+118,Loader,109,Operasional,2023-09-30
+119,Excavator,39,Maintenance,2023-04-02
+120,Dump Truck,182,Operasional,2023-02-09
+121,Excavator,143,Operasional,2024-05-22
+122,Excavator,36,Maintenance,2023-02-11
+123,Loader,138,Operasional,2023-06-22
+124,Dump Truck,179,Maintenance,2023-12-25
+125,Excavator,56,Maintenance,2024-12-22
+126,Dump Truck,130,Operasional,2024-03-19
+127,Loader,37,Operasional,2024-08-09
+128,Excavator,96,Maintenance,2024-12-19
+129,Loader,193,Operasional,2023-04-27
+130,Loader,151,Operasional,2024-10-25
+131,Dump Truck,41,Maintenance,2024-12-27
+132,Dump Truck,90,Maintenance,2023-11-25
+133,Dump Truck,53,Maintenance,2023-07-06
+134,Dump Truck,122,Operasional,2024-11-27
+135,Dump Truck,42,Maintenance,2024-03-08
+136,Loader,107,Operasional,2023-03-06
+137,Excavator,194,Maintenance,2023-09-11
+138,Loader,48,Maintenance,2024-07-07
+139,Excavator,138,Maintenance,2024-05-22
+140,Dump Truck,171,Maintenance,2024-12-24
+141,Excavator,147,Operasional,2024-04-30
+142,Dump Truck,142,Operasional,2023-07-30
+143,Excavator,28,Operasional,2024-07-24
+144,Dump Truck,100,Operasional,2023-04-10
+145,Dump Truck,139,Maintenance,2024-05-16
+146,Dump Truck,152,Operasional,2023-09-10
+147,Dump Truck,116,Operasional,2023-04-08
+148,Excavator,77,Maintenance,2024-11-01
+149,Loader,175,Maintenance,2024-01-10
+150,Excavator,127,Operasional,2023-02-09
+151,Dump Truck,75,Maintenance,2023-07-03
+152,Loader,130,Operasional,2024-11-23
+153,Dump Truck,34,Operasional,2024-11-26
+154,Excavator,127,Maintenance,2024-12-09
+155,Excavator,187,Maintenance,2023-03-29
+156,Dump Truck,173,Maintenance,2024-02-23
+157,Dump Truck,60,Maintenance,2023-04-08
+158,Excavator,153,Maintenance,2024-09-26
+159,Loader,97,Operasional,2024-08-24
+160,Loader,83,Maintenance,2023-05-03
+161,Excavator,181,Maintenance,2023-08-10
+162,Dump Truck,78,Operasional,2024-12-07
+163,Dump Truck,119,Operasional,2023-11-30
+164,Loader,123,Maintenance,2023-05-08
+165,Loader,35,Maintenance,2024-02-07
+166,Excavator,121,Operasional,2023-01-18
+167,Dump Truck,79,Maintenance,2023-04-24
+168,Loader,97,Maintenance,2024-02-19
+169,Dump Truck,101,Maintenance,2023-09-20
+170,Dump Truck,73,Maintenance,2024-04-28
+171,Dump Truck,79,Operasional,2023-04-10
+172,Excavator,35,Maintenance,2023-07-03
+173,Loader,138,Maintenance,2024-04-07
+174,Dump Truck,20,Maintenance,2023-04-14
+175,Loader,89,Operasional,2023-06-06
+176,Dump Truck,196,Maintenance,2023-05-17
+177,Loader,131,Maintenance,2023-05-12
+178,Excavator,121,Operasional,2023-04-28
+179,Loader,105,Operasional,2023-02-23
+180,Loader,169,Maintenance,2023-07-16
+181,Dump Truck,36,Operasional,2023-10-15
+182,Excavator,99,Operasional,2023-08-31
+183,Excavator,156,Maintenance,2024-05-20
+184,Loader,156,Maintenance,2024-08-04
+185,Excavator,61,Maintenance,2023-11-15
+186,Loader,136,Maintenance,2024-05-11
+187,Dump Truck,116,Operasional,2024-05-23
+188,Loader,45,Maintenance,2024-10-16
+189,Dump Truck,148,Maintenance,2024-03-02
+190,Dump Truck,61,Maintenance,2023-11-21
+191,Dump Truck,117,Maintenance,2023-11-19
+192,Loader,50,Operasional,2024-12-07
+193,Loader,106,Operasional,2023-12-16
+194,Loader,89,Maintenance,2024-05-05
+195,Dump Truck,50,Operasional,2024-01-27
+196,Excavator,141,Operasional,2023-02-27
+197,Loader,102,Maintenance,2024-12-04
+198,Excavator,77,Operasional,2023-10-05
+199,Loader,116,Operasional,2023-01-08
+200,Excavator,58,Operasional,2023-01-21
+201,Loader,162,Operasional,2024-08-16
+202,Dump Truck,102,Operasional,2023-04-06
+203,Loader,95,Maintenance,2024-07-26
+204,Loader,20,Operasional,2023-05-24
+205,Loader,47,Maintenance,2023-01-21
+206,Dump Truck,89,Operasional,2023-10-22
+207,Loader,130,Operasional,2024-02-06
+208,Loader,144,Operasional,2024-06-11
+209,Loader,79,Maintenance,2023-04-18
+210,Dump Truck,52,Maintenance,2024-07-29
+211,Loader,140,Operasional,2024-04-10
+212,Excavator,190,Maintenance,2024-06-25
+213,Dump Truck,148,Operasional,2024-02-22
+214,Dump Truck,89,Operasional,2023-07-28
+215,Dump Truck,109,Operasional,2023-01-03
+216,Loader,60,Maintenance,2024-04-08
+217,Dump Truck,134,Operasional,2023-12-03
+218,Loader,121,Maintenance,2023-12-02
+219,Loader,181,Operasional,2024-08-11
+220,Dump Truck,111,Operasional,2023-03-29
+221,Excavator,171,Maintenance,2023-05-29
+222,Excavator,48,Maintenance,2024-08-02
+223,Dump Truck,88,Maintenance,2024-08-24
+224,Dump Truck,159,Maintenance,2023-03-19
+225,Dump Truck,26,Maintenance,2023-04-30
+226,Dump Truck,106,Maintenance,2023-04-19
+227,Excavator,32,Operasional,2023-04-18
+228,Loader,193,Operasional,2024-07-30
+229,Loader,103,Maintenance,2024-12-14
+230,Excavator,132,Operasional,2024-09-09
+231,Dump Truck,30,Maintenance,2023-09-06
+232,Loader,108,Maintenance,2023-09-30
+233,Dump Truck,188,Maintenance,2024-09-11
+234,Dump Truck,104,Maintenance,2024-01-16
+235,Excavator,101,Maintenance,2024-07-04
+236,Dump Truck,173,Operasional,2023-06-11
+237,Excavator,36,Operasional,2024-08-06
+238,Excavator,163,Operasional,2024-08-18
+239,Excavator,98,Maintenance,2023-08-04
+240,Dump Truck,198,Maintenance,2023-06-05
+241,Excavator,52,Operasional,2023-05-20
+242,Excavator,173,Operasional,2024-11-15
+243,Excavator,34,Maintenance,2023-04-01
+244,Excavator,188,Operasional,2024-09-01
+245,Loader,149,Operasional,2024-05-30
+246,Loader,130,Maintenance,2023-06-15
+247,Dump Truck,25,Maintenance,2024-06-25
+248,Loader,96,Maintenance,2023-01-31
+249,Excavator,48,Operasional,2024-09-28
+250,Loader,75,Maintenance,2023-10-09
+251,Loader,186,Maintenance,2023-03-30
+252,Loader,56,Operasional,2024-08-09
+253,Excavator,151,Operasional,2024-12-08
+254,Excavator,28,Maintenance,2023-01-06
+255,Dump Truck,163,Operasional,2024-12-22
+256,Dump Truck,169,Operasional,2023-12-13
+257,Dump Truck,82,Operasional,2023-06-22
+258,Excavator,63,Operasional,2024-05-16
+259,Dump Truck,37,Maintenance,2024-01-18
+260,Dump Truck,160,Maintenance,2023-01-16
+261,Excavator,84,Maintenance,2024-08-18
+262,Dump Truck,118,Operasional,2024-01-07
+263,Excavator,119,Operasional,2023-11-30
+264,Dump Truck,171,Operasional,2023-06-28
+265,Loader,153,Operasional,2023-06-29
+266,Loader,183,Maintenance,2024-12-13
+267,Loader,115,Maintenance,2023-03-23
+268,Loader,67,Operasional,2023-10-23
+269,Dump Truck,111,Operasional,2023-04-01
+270,Loader,140,Operasional,2024-11-16
+271,Excavator,105,Maintenance,2023-08-13
+272,Excavator,75,Maintenance,2024-08-20
+273,Dump Truck,40,Operasional,2023-10-31
+274,Loader,186,Operasional,2023-02-18
+275,Excavator,157,Maintenance,2024-02-02
+276,Excavator,130,Maintenance,2024-08-22
+277,Excavator,121,Operasional,2024-07-10
+278,Excavator,31,Operasional,2023-01-17
+279,Excavator,94,Operasional,2024-05-04
+280,Loader,87,Maintenance,2024-10-04
+281,Excavator,60,Operasional,2024-12-11
+282,Excavator,100,Operasional,2023-04-18
+283,Loader,151,Maintenance,2023-09-08
+284,Dump Truck,27,Operasional,2024-09-06
+285,Loader,89,Operasional,2023-11-03
+286,Excavator,185,Operasional,2023-08-14
+287,Dump Truck,157,Operasional,2024-01-21
+288,Loader,48,Operasional,2024-12-09
+289,Excavator,103,Maintenance,2024-01-05
+290,Loader,109,Operasional,2023-09-24
+291,Dump Truck,159,Maintenance,2024-03-17
+292,Dump Truck,59,Maintenance,2024-06-11
+293,Excavator,155,Operasional,2024-05-29
+294,Dump Truck,187,Operasional,2023-04-20
+295,Excavator,148,Operasional,2023-11-02
+296,Loader,40,Maintenance,2024-12-03
+297,Excavator,88,Operasional,2023-06-29
+298,Excavator,45,Maintenance,2023-05-12
+299,Excavator,89,Maintenance,2023-05-29
+300,Excavator,67,Maintenance,2023-10-16
+301,Dump Truck,46,Maintenance,2024-04-16
+302,Loader,117,Maintenance,2024-07-27
+303,Excavator,192,Maintenance,2023-12-20
+304,Dump Truck,186,Operasional,2023-09-17
+305,Dump Truck,116,Operasional,2023-12-01
+306,Loader,182,Maintenance,2023-06-10
+307,Dump Truck,130,Operasional,2024-08-05
+308,Excavator,84,Operasional,2023-06-10
+309,Excavator,131,Maintenance,2023-07-14
+310,Loader,157,Maintenance,2024-12-14
+311,Loader,30,Operasional,2024-10-02
+312,Loader,194,Maintenance,2024-03-04
+313,Excavator,65,Operasional,2023-09-10
+314,Loader,36,Maintenance,2024-10-07
+315,Excavator,20,Operasional,2023-06-29
+316,Loader,180,Operasional,2024-06-07
+317,Loader,94,Operasional,2023-12-02
+318,Loader,177,Operasional,2023-12-31
+319,Dump Truck,53,Operasional,2023-11-24
+320,Dump Truck,143,Maintenance,2023-08-25
+321,Excavator,52,Maintenance,2024-06-14
+322,Dump Truck,168,Operasional,2023-02-13
+323,Loader,29,Maintenance,2024-03-20
+324,Excavator,62,Maintenance,2024-03-21
+325,Loader,149,Operasional,2024-11-22
+326,Loader,90,Maintenance,2023-01-27
+327,Dump Truck,178,Operasional,2023-01-16
+328,Excavator,94,Operasional,2024-01-06
+329,Dump Truck,136,Operasional,2023-11-14
+330,Excavator,145,Operasional,2024-08-13
+331,Dump Truck,77,Operasional,2023-04-02
+332,Dump Truck,36,Maintenance,2024-09-10
+333,Loader,29,Operasional,2024-02-24
+334,Dump Truck,193,Maintenance,2024-11-17
+335,Dump Truck,42,Maintenance,2023-09-30
+336,Loader,144,Operasional,2024-03-26
+337,Dump Truck,181,Operasional,2024-08-14
+338,Excavator,154,Maintenance,2024-05-24
+339,Dump Truck,103,Operasional,2024-06-04
+340,Excavator,41,Operasional,2023-09-08
+341,Excavator,152,Operasional,2023-04-27
+342,Dump Truck,103,Operasional,2024-03-18
+343,Loader,83,Operasional,2023-02-24
+344,Dump Truck,61,Operasional,2024-07-30
+345,Loader,152,Operasional,2024-08-30
+346,Loader,37,Maintenance,2024-07-29
+347,Excavator,36,Maintenance,2024-07-02
+348,Excavator,81,Maintenance,2023-03-10
+349,Loader,178,Maintenance,2023-09-19
+350,Excavator,85,Maintenance,2023-11-23
+351,Loader,88,Maintenance,2024-06-20
+352,Dump Truck,183,Maintenance,2024-03-31
+353,Dump Truck,96,Maintenance,2023-07-03
+354,Loader,81,Operasional,2023-01-31
+355,Dump Truck,63,Operasional,2024-06-16
+356,Dump Truck,37,Maintenance,2023-09-28
+357,Excavator,126,Maintenance,2024-01-10
+358,Loader,39,Maintenance,2024-01-10
+359,Loader,53,Maintenance,2023-05-22
+360,Excavator,97,Maintenance,2023-02-25
+361,Excavator,76,Maintenance,2023-03-29
+362,Dump Truck,160,Operasional,2024-06-22
+363,Loader,26,Operasional,2024-05-12
+364,Dump Truck,113,Operasional,2023-03-01
+365,Dump Truck,28,Operasional,2023-07-28
+366,Loader,155,Maintenance,2023-11-16
+367,Dump Truck,74,Maintenance,2023-03-04
+368,Excavator,103,Operasional,2023-01-23
+369,Excavator,191,Maintenance,2023-10-11
+370,Dump Truck,166,Maintenance,2024-11-26
+371,Dump Truck,197,Maintenance,2024-07-06
+372,Dump Truck,194,Maintenance,2024-10-10
+373,Loader,159,Maintenance,2024-09-27
+374,Excavator,80,Operasional,2023-03-12
+375,Dump Truck,115,Maintenance,2024-09-22
+376,Excavator,62,Operasional,2023-06-10
+377,Dump Truck,71,Maintenance,2023-03-09
+378,Excavator,122,Maintenance,2023-07-12
+379,Excavator,122,Operasional,2023-09-16
+380,Loader,62,Operasional,2023-03-12
+381,Dump Truck,77,Operasional,2024-01-25
+382,Loader,148,Maintenance,2024-08-10
+383,Loader,176,Operasional,2023-03-07
+384,Dump Truck,132,Maintenance,2023-09-06
+385,Dump Truck,88,Operasional,2024-01-05
+386,Excavator,166,Maintenance,2024-01-26
+387,Excavator,176,Maintenance,2023-02-11
+388,Dump Truck,64,Operasional,2023-12-13
+389,Excavator,137,Operasional,2024-09-14
+390,Excavator,158,Maintenance,2023-07-10
+391,Loader,83,Operasional,2023-04-06
+392,Loader,37,Maintenance,2024-02-23
+393,Dump Truck,172,Maintenance,2024-01-16
+394,Dump Truck,187,Maintenance,2023-10-15
+395,Excavator,95,Operasional,2024-08-29
+396,Dump Truck,121,Operasional,2023-05-12
+397,Excavator,107,Operasional,2024-07-14
+398,Excavator,163,Operasional,2024-11-15
+399,Loader,175,Operasional,2023-07-25
+400,Loader,154,Maintenance,2023-06-05
+401,Dump Truck,52,Maintenance,2024-12-12
+402,Dump Truck,132,Operasional,2024-02-24
+403,Excavator,42,Operasional,2024-01-28
+404,Loader,79,Maintenance,2024-09-21
+405,Loader,32,Maintenance,2024-05-31
+406,Dump Truck,74,Operasional,2024-05-28
+407,Dump Truck,86,Operasional,2023-02-04
+408,Excavator,138,Operasional,2024-10-30
+409,Excavator,41,Operasional,2023-10-25
+410,Loader,150,Maintenance,2024-04-20
+411,Dump Truck,26,Maintenance,2023-01-11
+412,Loader,114,Maintenance,2024-01-07
+413,Dump Truck,120,Maintenance,2024-01-23
+414,Dump Truck,65,Operasional,2024-09-16
+415,Dump Truck,171,Maintenance,2023-07-18
+416,Excavator,171,Maintenance,2024-03-24
+417,Loader,33,Maintenance,2024-08-03
+418,Loader,108,Maintenance,2024-09-12
+419,Excavator,60,Operasional,2023-09-11
+420,Excavator,182,Maintenance,2023-06-04
+421,Dump Truck,154,Maintenance,2023-10-09
+422,Loader,143,Maintenance,2023-05-23
+423,Loader,136,Maintenance,2024-01-15
+424,Excavator,182,Maintenance,2024-01-08
+425,Loader,186,Maintenance,2023-03-11
+426,Loader,73,Operasional,2024-01-22
+427,Excavator,101,Maintenance,2024-06-09
+428,Loader,136,Operasional,2024-12-05
+429,Loader,27,Operasional,2024-04-08
+430,Loader,106,Maintenance,2024-07-09
+431,Loader,81,Operasional,2023-09-09
+432,Loader,193,Maintenance,2023-10-03
+433,Loader,129,Maintenance,2024-04-27
+434,Excavator,137,Maintenance,2024-02-06
+435,Dump Truck,140,Operasional,2024-03-22
+436,Loader,136,Operasional,2023-07-21
+437,Excavator,153,Operasional,2024-03-28
+438,Excavator,64,Maintenance,2023-02-08
+439,Dump Truck,196,Maintenance,2024-03-08
+440,Excavator,119,Maintenance,2023-04-12
+441,Dump Truck,171,Operasional,2023-07-16
+442,Loader,166,Operasional,2024-05-01
+443,Loader,26,Operasional,2024-12-29
+444,Dump Truck,41,Maintenance,2024-07-26
+445,Loader,45,Operasional,2023-03-22
+446,Dump Truck,33,Maintenance,2024-07-01
+447,Dump Truck,136,Operasional,2024-08-13
+448,Loader,157,Maintenance,2023-11-26
+449,Loader,193,Maintenance,2023-09-30
+450,Dump Truck,26,Operasional,2023-01-13
+451,Dump Truck,36,Operasional,2023-06-05
+452,Excavator,145,Operasional,2023-03-24
+453,Loader,112,Maintenance,2024-10-31
+454,Excavator,106,Operasional,2023-11-03
+455,Dump Truck,141,Maintenance,2023-10-06
+456,Excavator,143,Maintenance,2023-07-24
+457,Loader,178,Maintenance,2023-09-07
+458,Excavator,73,Operasional,2024-04-08
+459,Dump Truck,78,Operasional,2023-01-22
+460,Dump Truck,37,Operasional,2023-08-22
+461,Dump Truck,96,Maintenance,2023-05-23
+462,Excavator,176,Maintenance,2023-04-28
+463,Excavator,24,Maintenance,2024-09-08
+464,Loader,150,Operasional,2023-02-06
+465,Excavator,197,Maintenance,2023-09-16
+466,Dump Truck,98,Operasional,2023-02-15
+467,Dump Truck,40,Operasional,2023-07-13
+468,Loader,181,Operasional,2023-04-18
+469,Excavator,115,Maintenance,2023-10-09
+470,Excavator,91,Maintenance,2023-11-30
+471,Excavator,172,Maintenance,2023-07-30
+472,Excavator,52,Operasional,2024-05-29
+473,Loader,67,Maintenance,2024-05-12
+474,Excavator,29,Operasional,2024-09-07
+475,Excavator,128,Maintenance,2024-10-11
+476,Excavator,46,Maintenance,2023-07-15
+477,Dump Truck,27,Maintenance,2024-07-04
+478,Loader,152,Operasional,2023-06-23
+479,Excavator,109,Maintenance,2023-07-25
+480,Dump Truck,81,Operasional,2024-01-18
+481,Excavator,60,Maintenance,2024-01-26
+482,Dump Truck,197,Operasional,2024-10-28
+483,Excavator,27,Maintenance,2024-04-24
+484,Dump Truck,89,Maintenance,2024-12-07
+485,Excavator,181,Maintenance,2023-04-04
+486,Loader,176,Operasional,2023-07-31
+487,Loader,119,Maintenance,2023-09-26
+488,Dump Truck,132,Operasional,2024-05-09
+489,Excavator,158,Operasional,2024-06-13
+490,Dump Truck,180,Maintenance,2024-08-05
+491,Loader,178,Operasional,2023-01-17
+492,Excavator,87,Operasional,2023-12-11
+493,Loader,158,Maintenance,2023-12-21
+494,Loader,46,Maintenance,2023-05-05
+495,Excavator,115,Operasional,2024-05-25
+496,Dump Truck,84,Operasional,2024-04-13
+497,Loader,22,Maintenance,2024-09-05
+498,Loader,108,Operasional,2023-03-19
+499,Excavator,109,Operasional,2024-10-19
+500,Excavator,111,Maintenance,2024-11-25

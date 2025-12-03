@@ -1,7 +1,0 @@
-buyer_id,name,contract_terms,preferred_delivery
-BY01,Buyer 1,Standard 30 days,truck
-BY02,Buyer 2,Standard 30 days,truck
-BY03,Buyer 3,Standard 30 days,truck
-BY04,Buyer 4,Standard 30 days,truck
-BY05,Buyer 5,Standard 30 days,barge
-BY06,Buyer 6,Standard 30 days,truck

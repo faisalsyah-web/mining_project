@@ -1,0 +1,501 @@
+audit_id,tanggal,jenis_audit,parameter,nilai_ukur,batas_regulasi,status_hasil,lokasi,auditor,tindakan_diperlukan,keterangan
+1,2024-12-26,Air,pH,2.26,6.57,Tidak Lulus,Lokasi 0,Auditor 1,-,-
+2,2024-02-04,Air,Pb,9.79,2.47,Tidak Lulus,Lokasi 1,Auditor 2,-,-
+3,2024-08-26,Tanah,Pb,6.82,6.74,Lulus,Lokasi 2,Auditor 3,-,-
+4,2024-12-07,Tanah,CO2,6.36,6.58,Lulus,Lokasi 3,Auditor 4,-,-
+5,2024-10-13,Air,pH,4.48,1.97,Tidak Lulus,Lokasi 4,Auditor 5,-,-
+6,2024-04-01,Tanah,CO2,1.71,1.02,Lulus,Lokasi 5,Auditor 6,-,-
+7,2024-01-27,Tanah,CO2,7.73,2.31,Lulus,Lokasi 6,Auditor 7,-,-
+8,2023-06-03,Udara,CO2,5.94,4.86,Tidak Lulus,Lokasi 7,Auditor 8,-,-
+9,2023-11-06,Tanah,pH,5.37,1.38,Tidak Lulus,Lokasi 8,Auditor 9,-,-
+10,2024-05-22,Air,Pb,2.07,6.04,Tidak Lulus,Lokasi 9,Auditor 10,-,-
+11,2023-06-26,Air,Pb,6.49,2.84,Lulus,Lokasi 10,Auditor 11,-,-
+12,2024-06-12,Tanah,pH,0.17,5.98,Tidak Lulus,Lokasi 11,Auditor 12,-,-
+13,2023-06-03,Air,CO2,6.53,7.26,Lulus,Lokasi 12,Auditor 13,-,-
+14,2023-10-01,Air,CO2,2.44,4.67,Tidak Lulus,Lokasi 13,Auditor 14,-,-
+15,2023-02-11,Tanah,pH,5.98,6.6,Lulus,Lokasi 14,Auditor 15,-,-
+16,2024-11-23,Air,Pb,4.54,1.05,Tidak Lulus,Lokasi 15,Auditor 16,-,-
+17,2024-05-17,Udara,CO2,7.79,7.61,Tidak Lulus,Lokasi 16,Auditor 17,-,-
+18,2024-05-14,Tanah,CO2,2.03,6.36,Lulus,Lokasi 17,Auditor 18,-,-
+19,2024-07-15,Tanah,CO2,1.85,3.45,Lulus,Lokasi 18,Auditor 19,-,-
+20,2024-12-18,Air,CO2,6.45,3.22,Tidak Lulus,Lokasi 19,Auditor 20,-,-
+21,2023-10-13,Udara,pH,2.33,5.45,Lulus,Lokasi 20,Auditor 21,-,-
+22,2024-07-21,Air,CO2,9.79,5.88,Lulus,Lokasi 21,Auditor 22,-,-
+23,2023-01-27,Air,pH,7.35,5.87,Lulus,Lokasi 22,Auditor 23,-,-
+24,2024-07-10,Udara,Pb,7.32,4.11,Lulus,Lokasi 23,Auditor 24,-,-
+25,2024-09-28,Air,Pb,5.4,3.17,Tidak Lulus,Lokasi 24,Auditor 25,-,-
+26,2023-12-31,Udara,pH,7.5,7.03,Tidak Lulus,Lokasi 25,Auditor 26,-,-
+27,2023-11-22,Tanah,pH,7.79,3.38,Tidak Lulus,Lokasi 26,Auditor 27,-,-
+28,2023-04-13,Tanah,pH,1.14,6.21,Tidak Lulus,Lokasi 27,Auditor 28,-,-
+29,2023-11-03,Tanah,Pb,3.39,5.7,Tidak Lulus,Lokasi 28,Auditor 29,-,-
+30,2023-05-20,Udara,Pb,8.23,3.27,Lulus,Lokasi 29,Auditor 30,-,-
+31,2023-04-04,Udara,pH,4.46,2.04,Lulus,Lokasi 30,Auditor 31,-,-
+32,2024-10-31,Air,pH,7.4,4.51,Tidak Lulus,Lokasi 31,Auditor 32,-,-
+33,2024-11-26,Tanah,CO2,0.53,4.98,Lulus,Lokasi 32,Auditor 33,-,-
+34,2024-07-01,Tanah,pH,5.51,7.19,Lulus,Lokasi 33,Auditor 34,-,-
+35,2024-10-03,Air,pH,3.37,7.33,Tidak Lulus,Lokasi 34,Auditor 35,-,-
+36,2023-08-08,Tanah,CO2,5.55,1.85,Tidak Lulus,Lokasi 35,Auditor 36,-,-
+37,2023-06-15,Air,Pb,7.18,6.49,Tidak Lulus,Lokasi 36,Auditor 37,-,-
+38,2024-04-13,Air,Pb,6.26,3.59,Tidak Lulus,Lokasi 37,Auditor 38,-,-
+39,2023-10-21,Udara,CO2,0.14,3.38,Lulus,Lokasi 38,Auditor 39,-,-
+40,2024-08-31,Udara,Pb,2.03,1.94,Lulus,Lokasi 39,Auditor 40,-,-
+41,2023-06-25,Air,Pb,6.48,5.64,Lulus,Lokasi 0,Auditor 41,-,-
+42,2023-04-13,Udara,pH,6.44,1.55,Tidak Lulus,Lokasi 1,Auditor 42,-,-
+43,2024-11-22,Air,pH,7.5,5.16,Lulus,Lokasi 2,Auditor 43,-,-
+44,2024-11-13,Udara,pH,3.16,6.32,Tidak Lulus,Lokasi 3,Auditor 44,-,-
+45,2024-02-28,Tanah,pH,9.64,4.4,Lulus,Lokasi 4,Auditor 45,-,-
+46,2024-06-12,Air,Pb,1.94,5.24,Lulus,Lokasi 5,Auditor 46,-,-
+47,2023-08-18,Tanah,Pb,3.02,6.17,Lulus,Lokasi 6,Auditor 47,-,-
+48,2024-05-13,Air,CO2,3.77,6.55,Lulus,Lokasi 7,Auditor 48,-,-
+49,2023-02-08,Udara,pH,1.3,2.95,Tidak Lulus,Lokasi 8,Auditor 49,-,-
+50,2023-05-07,Udara,Pb,8.32,2.87,Lulus,Lokasi 9,Auditor 50,-,-
+51,2024-02-15,Udara,CO2,3.0,5.27,Tidak Lulus,Lokasi 10,Auditor 51,-,-
+52,2024-12-28,Air,Pb,9.74,2.78,Lulus,Lokasi 11,Auditor 52,-,-
+53,2024-10-20,Udara,CO2,3.1,5.1,Tidak Lulus,Lokasi 12,Auditor 53,-,-
+54,2023-09-01,Air,pH,4.23,2.82,Tidak Lulus,Lokasi 13,Auditor 54,-,-
+55,2024-09-16,Tanah,pH,8.72,4.33,Lulus,Lokasi 14,Auditor 55,-,-
+56,2024-04-23,Tanah,Pb,9.6,3.3,Lulus,Lokasi 15,Auditor 56,-,-
+57,2023-07-22,Udara,Pb,6.11,3.41,Lulus,Lokasi 16,Auditor 57,-,-
+58,2023-02-05,Air,pH,8.52,2.38,Tidak Lulus,Lokasi 17,Auditor 58,-,-
+59,2024-01-23,Udara,Pb,5.05,6.42,Tidak Lulus,Lokasi 18,Auditor 59,-,-
+60,2024-12-07,Tanah,Pb,4.07,1.78,Tidak Lulus,Lokasi 19,Auditor 60,-,-
+61,2024-01-23,Tanah,Pb,6.71,2.13,Lulus,Lokasi 20,Auditor 61,-,-
+62,2024-01-16,Tanah,Pb,0.59,7.6,Tidak Lulus,Lokasi 21,Auditor 62,-,-
+63,2023-04-12,Tanah,pH,3.47,4.12,Lulus,Lokasi 22,Auditor 63,-,-
+64,2023-09-05,Udara,CO2,9.74,2.9,Tidak Lulus,Lokasi 23,Auditor 64,-,-
+65,2024-11-07,Tanah,CO2,1.36,1.61,Lulus,Lokasi 24,Auditor 65,-,-
+66,2024-03-26,Udara,pH,5.3,7.09,Tidak Lulus,Lokasi 25,Auditor 66,-,-
+67,2024-10-06,Air,CO2,0.97,3.82,Tidak Lulus,Lokasi 26,Auditor 67,-,-
+68,2023-12-25,Air,CO2,3.31,4.6,Lulus,Lokasi 27,Auditor 68,-,-
+69,2024-04-28,Air,CO2,5.9,6.9,Tidak Lulus,Lokasi 28,Auditor 69,-,-
+70,2024-01-24,Tanah,pH,7.63,4.09,Lulus,Lokasi 29,Auditor 70,-,-
+71,2023-10-23,Udara,Pb,7.05,5.79,Tidak Lulus,Lokasi 30,Auditor 71,-,-
+72,2023-10-23,Air,CO2,4.48,3.55,Tidak Lulus,Lokasi 31,Auditor 72,-,-
+73,2024-04-03,Udara,pH,3.46,1.5,Tidak Lulus,Lokasi 32,Auditor 73,-,-
+74,2024-10-14,Udara,Pb,5.71,6.28,Lulus,Lokasi 33,Auditor 74,-,-
+75,2024-07-26,Air,pH,0.89,5.68,Lulus,Lokasi 34,Auditor 75,-,-
+76,2024-12-22,Udara,CO2,7.67,7.6,Tidak Lulus,Lokasi 35,Auditor 76,-,-
+77,2024-01-09,Udara,CO2,0.28,6.48,Lulus,Lokasi 36,Auditor 77,-,-
+78,2023-02-13,Air,CO2,2.48,7.85,Tidak Lulus,Lokasi 37,Auditor 78,-,-
+79,2023-10-07,Udara,CO2,7.3,7.54,Tidak Lulus,Lokasi 38,Auditor 79,-,-
+80,2023-09-19,Tanah,Pb,5.62,7.94,Lulus,Lokasi 39,Auditor 80,-,-
+81,2024-08-03,Air,pH,4.43,2.43,Tidak Lulus,Lokasi 0,Auditor 81,-,-
+82,2024-04-30,Udara,Pb,4.08,1.4,Tidak Lulus,Lokasi 1,Auditor 82,-,-
+83,2023-01-18,Udara,CO2,0.47,7.74,Lulus,Lokasi 2,Auditor 83,-,-
+84,2024-06-13,Udara,CO2,3.51,1.34,Tidak Lulus,Lokasi 3,Auditor 84,-,-
+85,2023-06-11,Tanah,pH,2.92,2.25,Lulus,Lokasi 4,Auditor 85,-,-
+86,2024-03-11,Udara,Pb,4.6,5.93,Lulus,Lokasi 5,Auditor 86,-,-
+87,2024-01-01,Tanah,pH,0.62,7.54,Tidak Lulus,Lokasi 6,Auditor 87,-,-
+88,2024-11-20,Air,pH,0.19,5.21,Tidak Lulus,Lokasi 7,Auditor 88,-,-
+89,2024-11-25,Tanah,CO2,8.13,3.57,Tidak Lulus,Lokasi 8,Auditor 89,-,-
+90,2023-08-23,Udara,pH,2.0,1.87,Lulus,Lokasi 9,Auditor 90,-,-
+91,2024-05-18,Air,CO2,8.85,7.93,Tidak Lulus,Lokasi 10,Auditor 91,-,-
+92,2024-01-07,Tanah,CO2,1.04,4.26,Tidak Lulus,Lokasi 11,Auditor 92,-,-
+93,2024-04-16,Udara,pH,9.9,2.43,Tidak Lulus,Lokasi 12,Auditor 93,-,-
+94,2023-08-28,Tanah,pH,2.65,1.36,Lulus,Lokasi 13,Auditor 94,-,-
+95,2024-07-13,Air,pH,4.86,1.72,Tidak Lulus,Lokasi 14,Auditor 95,-,-
+96,2023-03-29,Tanah,Pb,6.63,3.76,Tidak Lulus,Lokasi 15,Auditor 96,-,-
+97,2024-07-30,Tanah,CO2,6.45,5.47,Tidak Lulus,Lokasi 16,Auditor 97,-,-
+98,2023-05-04,Udara,Pb,0.46,4.04,Tidak Lulus,Lokasi 17,Auditor 98,-,-
+99,2024-03-17,Tanah,CO2,7.13,6.08,Tidak Lulus,Lokasi 18,Auditor 99,-,-
+100,2023-06-29,Tanah,pH,5.43,7.17,Tidak Lulus,Lokasi 19,Auditor 100,-,-
+101,2024-08-29,Air,CO2,2.52,5.67,Tidak Lulus,Lokasi 20,Auditor 101,-,-
+102,2023-03-12,Tanah,Pb,8.15,4.13,Tidak Lulus,Lokasi 21,Auditor 102,-,-
+103,2024-09-15,Tanah,CO2,7.94,1.03,Lulus,Lokasi 22,Auditor 103,-,-
+104,2024-02-04,Udara,Pb,7.19,5.83,Tidak Lulus,Lokasi 23,Auditor 104,-,-
+105,2024-12-18,Tanah,Pb,1.66,6.05,Tidak Lulus,Lokasi 24,Auditor 105,-,-
+106,2023-01-03,Udara,Pb,0.17,6.82,Lulus,Lokasi 25,Auditor 106,-,-
+107,2023-06-12,Udara,Pb,3.99,5.11,Tidak Lulus,Lokasi 26,Auditor 107,-,-
+108,2023-02-07,Udara,Pb,4.64,6.53,Tidak Lulus,Lokasi 27,Auditor 108,-,-
+109,2024-04-15,Air,Pb,2.27,2.8,Tidak Lulus,Lokasi 28,Auditor 109,-,-
+110,2024-11-08,Air,CO2,5.27,6.39,Lulus,Lokasi 29,Auditor 110,-,-
+111,2024-09-04,Air,pH,2.87,4.83,Tidak Lulus,Lokasi 30,Auditor 111,-,-
+112,2024-11-12,Udara,CO2,5.6,3.86,Lulus,Lokasi 31,Auditor 112,-,-
+113,2024-09-27,Tanah,pH,6.59,7.17,Lulus,Lokasi 32,Auditor 113,-,-
+114,2023-12-19,Air,CO2,1.92,4.17,Lulus,Lokasi 33,Auditor 114,-,-
+115,2023-01-03,Tanah,Pb,3.45,2.83,Lulus,Lokasi 34,Auditor 115,-,-
+116,2023-01-26,Air,pH,4.92,6.55,Tidak Lulus,Lokasi 35,Auditor 116,-,-
+117,2024-08-16,Air,CO2,3.67,5.42,Lulus,Lokasi 36,Auditor 117,-,-
+118,2023-09-24,Udara,CO2,4.68,2.47,Tidak Lulus,Lokasi 37,Auditor 118,-,-
+119,2023-08-12,Tanah,Pb,4.53,7.16,Lulus,Lokasi 38,Auditor 119,-,-
+120,2023-10-15,Tanah,Pb,9.55,6.06,Lulus,Lokasi 39,Auditor 120,-,-
+121,2024-10-27,Air,pH,2.61,5.2,Lulus,Lokasi 0,Auditor 121,-,-
+122,2023-01-29,Udara,Pb,4.11,6.48,Tidak Lulus,Lokasi 1,Auditor 122,-,-
+123,2023-05-09,Air,Pb,4.97,3.02,Tidak Lulus,Lokasi 2,Auditor 123,-,-
+124,2024-10-05,Udara,pH,9.76,6.2,Lulus,Lokasi 3,Auditor 124,-,-
+125,2024-10-18,Udara,CO2,5.99,4.37,Tidak Lulus,Lokasi 4,Auditor 125,-,-
+126,2023-08-04,Tanah,Pb,2.58,1.31,Tidak Lulus,Lokasi 5,Auditor 126,-,-
+127,2023-01-07,Tanah,pH,9.6,3.5,Lulus,Lokasi 6,Auditor 127,-,-
+128,2024-08-09,Tanah,pH,3.79,4.6,Tidak Lulus,Lokasi 7,Auditor 128,-,-
+129,2024-09-11,Udara,CO2,1.75,4.36,Tidak Lulus,Lokasi 8,Auditor 129,-,-
+130,2024-08-24,Tanah,pH,8.14,4.21,Lulus,Lokasi 9,Auditor 130,-,-
+131,2024-07-19,Air,Pb,0.81,6.86,Lulus,Lokasi 10,Auditor 131,-,-
+132,2024-05-11,Udara,CO2,9.98,6.36,Tidak Lulus,Lokasi 11,Auditor 132,-,-
+133,2023-03-22,Tanah,CO2,2.55,3.23,Tidak Lulus,Lokasi 12,Auditor 133,-,-
+134,2023-02-13,Air,Pb,4.93,7.47,Tidak Lulus,Lokasi 13,Auditor 134,-,-
+135,2024-12-05,Air,Pb,0.8,6.59,Lulus,Lokasi 14,Auditor 135,-,-
+136,2023-03-29,Air,Pb,3.62,1.88,Lulus,Lokasi 15,Auditor 136,-,-
+137,2024-02-21,Tanah,Pb,9.93,4.65,Lulus,Lokasi 16,Auditor 137,-,-
+138,2024-07-30,Udara,Pb,7.35,4.08,Lulus,Lokasi 17,Auditor 138,-,-
+139,2023-01-17,Udara,pH,8.05,1.55,Tidak Lulus,Lokasi 18,Auditor 139,-,-
+140,2023-01-23,Tanah,pH,4.82,1.53,Lulus,Lokasi 19,Auditor 140,-,-
+141,2024-01-15,Udara,Pb,7.63,3.36,Tidak Lulus,Lokasi 20,Auditor 141,-,-
+142,2024-07-04,Air,pH,0.17,2.18,Tidak Lulus,Lokasi 21,Auditor 142,-,-
+143,2023-08-07,Air,Pb,2.08,3.72,Lulus,Lokasi 22,Auditor 143,-,-
+144,2023-09-21,Udara,pH,3.66,7.48,Lulus,Lokasi 23,Auditor 144,-,-
+145,2024-05-02,Udara,pH,1.65,6.64,Lulus,Lokasi 24,Auditor 145,-,-
+146,2024-07-18,Tanah,Pb,3.11,7.6,Lulus,Lokasi 25,Auditor 146,-,-
+147,2023-12-14,Udara,CO2,8.6,3.56,Tidak Lulus,Lokasi 26,Auditor 147,-,-
+148,2023-03-08,Tanah,CO2,9.98,2.0,Lulus,Lokasi 27,Auditor 148,-,-
+149,2023-08-08,Tanah,Pb,8.54,6.28,Lulus,Lokasi 28,Auditor 149,-,-
+150,2023-12-12,Udara,Pb,4.32,1.37,Lulus,Lokasi 29,Auditor 150,-,-
+151,2024-06-20,Air,pH,2.59,7.4,Tidak Lulus,Lokasi 30,Auditor 151,-,-
+152,2024-06-18,Air,pH,5.52,6.55,Lulus,Lokasi 31,Auditor 152,-,-
+153,2023-01-30,Udara,Pb,1.81,6.45,Lulus,Lokasi 32,Auditor 153,-,-
+154,2024-09-18,Air,pH,2.04,4.73,Tidak Lulus,Lokasi 33,Auditor 154,-,-
+155,2024-08-04,Air,CO2,4.26,7.18,Tidak Lulus,Lokasi 34,Auditor 155,-,-
+156,2024-08-21,Udara,pH,6.99,2.21,Lulus,Lokasi 35,Auditor 156,-,-
+157,2023-07-27,Udara,pH,4.32,6.99,Lulus,Lokasi 36,Auditor 157,-,-
+158,2023-03-23,Udara,Pb,0.78,1.66,Tidak Lulus,Lokasi 37,Auditor 158,-,-
+159,2023-06-18,Tanah,Pb,5.41,5.02,Tidak Lulus,Lokasi 38,Auditor 159,-,-
+160,2024-02-24,Air,Pb,1.51,3.57,Tidak Lulus,Lokasi 39,Auditor 160,-,-
+161,2024-04-20,Air,pH,0.63,6.24,Tidak Lulus,Lokasi 0,Auditor 161,-,-
+162,2024-07-20,Air,pH,5.83,7.06,Lulus,Lokasi 1,Auditor 162,-,-
+163,2024-03-12,Udara,pH,9.34,1.46,Tidak Lulus,Lokasi 2,Auditor 163,-,-
+164,2024-09-30,Tanah,Pb,6.67,5.27,Tidak Lulus,Lokasi 3,Auditor 164,-,-
+165,2023-06-01,Udara,pH,2.39,7.3,Tidak Lulus,Lokasi 4,Auditor 165,-,-
+166,2024-04-20,Tanah,Pb,6.2,6.9,Lulus,Lokasi 5,Auditor 166,-,-
+167,2023-01-17,Air,pH,9.44,5.19,Tidak Lulus,Lokasi 6,Auditor 167,-,-
+168,2024-01-29,Air,CO2,9.47,1.5,Lulus,Lokasi 7,Auditor 168,-,-
+169,2023-05-26,Air,Pb,5.15,3.49,Tidak Lulus,Lokasi 8,Auditor 169,-,-
+170,2024-02-17,Tanah,Pb,1.77,2.65,Lulus,Lokasi 9,Auditor 170,-,-
+171,2023-09-23,Udara,pH,0.56,6.36,Tidak Lulus,Lokasi 10,Auditor 171,-,-
+172,2024-09-30,Air,Pb,2.8,5.51,Tidak Lulus,Lokasi 11,Auditor 172,-,-
+173,2023-08-09,Udara,Pb,6.42,4.23,Lulus,Lokasi 12,Auditor 173,-,-
+174,2023-03-14,Air,pH,2.1,2.99,Lulus,Lokasi 13,Auditor 174,-,-
+175,2023-03-26,Tanah,CO2,4.52,6.3,Lulus,Lokasi 14,Auditor 175,-,-
+176,2024-08-13,Tanah,Pb,4.47,4.08,Tidak Lulus,Lokasi 15,Auditor 176,-,-
+177,2023-08-31,Udara,Pb,0.21,5.95,Tidak Lulus,Lokasi 16,Auditor 177,-,-
+178,2024-03-23,Air,pH,7.1,3.2,Lulus,Lokasi 17,Auditor 178,-,-
+179,2023-10-04,Air,Pb,6.88,3.02,Tidak Lulus,Lokasi 18,Auditor 179,-,-
+180,2024-06-03,Udara,CO2,5.77,7.0,Tidak Lulus,Lokasi 19,Auditor 180,-,-
+181,2023-09-22,Udara,pH,9.17,4.09,Tidak Lulus,Lokasi 20,Auditor 181,-,-
+182,2024-04-19,Udara,pH,7.28,1.22,Tidak Lulus,Lokasi 21,Auditor 182,-,-
+183,2023-03-10,Tanah,CO2,7.87,7.12,Lulus,Lokasi 22,Auditor 183,-,-
+184,2024-09-26,Tanah,pH,4.87,6.13,Tidak Lulus,Lokasi 23,Auditor 184,-,-
+185,2023-11-22,Tanah,CO2,4.65,4.97,Lulus,Lokasi 24,Auditor 185,-,-
+186,2023-08-18,Tanah,pH,0.49,4.13,Lulus,Lokasi 25,Auditor 186,-,-
+187,2023-06-24,Udara,pH,4.33,3.12,Tidak Lulus,Lokasi 26,Auditor 187,-,-
+188,2024-05-08,Tanah,Pb,1.78,2.46,Lulus,Lokasi 27,Auditor 188,-,-
+189,2023-10-23,Tanah,Pb,5.7,2.33,Lulus,Lokasi 28,Auditor 189,-,-
+190,2024-12-22,Air,Pb,8.07,5.93,Lulus,Lokasi 29,Auditor 190,-,-
+191,2023-01-24,Tanah,CO2,5.16,5.26,Tidak Lulus,Lokasi 30,Auditor 191,-,-
+192,2024-11-30,Udara,pH,5.78,2.95,Lulus,Lokasi 31,Auditor 192,-,-
+193,2024-05-07,Udara,Pb,3.17,4.77,Tidak Lulus,Lokasi 32,Auditor 193,-,-
+194,2023-09-21,Tanah,CO2,2.99,3.78,Lulus,Lokasi 33,Auditor 194,-,-
+195,2024-01-13,Air,CO2,9.04,6.92,Lulus,Lokasi 34,Auditor 195,-,-
+196,2023-04-18,Udara,pH,9.97,2.95,Lulus,Lokasi 35,Auditor 196,-,-
+197,2024-05-29,Air,pH,0.3,1.85,Tidak Lulus,Lokasi 36,Auditor 197,-,-
+198,2023-02-12,Tanah,CO2,8.62,5.67,Tidak Lulus,Lokasi 37,Auditor 198,-,-
+199,2023-03-27,Udara,CO2,3.91,4.39,Tidak Lulus,Lokasi 38,Auditor 199,-,-
+200,2024-01-14,Udara,Pb,2.19,5.36,Lulus,Lokasi 39,Auditor 200,-,-
+201,2024-12-14,Tanah,pH,4.01,6.3,Lulus,Lokasi 0,Auditor 201,-,-
+202,2023-07-30,Air,pH,8.83,6.5,Lulus,Lokasi 1,Auditor 202,-,-
+203,2024-07-15,Air,Pb,8.59,2.59,Lulus,Lokasi 2,Auditor 203,-,-
+204,2023-02-18,Udara,pH,8.05,4.74,Lulus,Lokasi 3,Auditor 204,-,-
+205,2024-10-31,Tanah,pH,7.18,7.32,Tidak Lulus,Lokasi 4,Auditor 205,-,-
+206,2024-02-15,Udara,CO2,9.18,3.11,Tidak Lulus,Lokasi 5,Auditor 206,-,-
+207,2023-01-15,Air,pH,9.54,7.28,Lulus,Lokasi 6,Auditor 207,-,-
+208,2023-03-28,Udara,pH,4.0,3.53,Tidak Lulus,Lokasi 7,Auditor 208,-,-
+209,2024-07-30,Udara,Pb,8.77,5.61,Lulus,Lokasi 8,Auditor 209,-,-
+210,2024-01-14,Udara,Pb,3.64,5.75,Tidak Lulus,Lokasi 9,Auditor 210,-,-
+211,2023-07-10,Tanah,Pb,1.75,5.54,Tidak Lulus,Lokasi 10,Auditor 211,-,-
+212,2024-11-12,Tanah,CO2,4.84,2.44,Tidak Lulus,Lokasi 11,Auditor 212,-,-
+213,2024-07-18,Air,pH,7.67,5.86,Tidak Lulus,Lokasi 12,Auditor 213,-,-
+214,2024-08-21,Air,Pb,9.81,3.15,Tidak Lulus,Lokasi 13,Auditor 214,-,-
+215,2023-03-11,Tanah,Pb,7.09,2.78,Lulus,Lokasi 14,Auditor 215,-,-
+216,2024-01-10,Udara,Pb,3.19,4.8,Lulus,Lokasi 15,Auditor 216,-,-
+217,2024-11-26,Udara,CO2,8.95,2.71,Lulus,Lokasi 16,Auditor 217,-,-
+218,2024-07-30,Udara,Pb,2.69,1.72,Lulus,Lokasi 17,Auditor 218,-,-
+219,2024-07-28,Tanah,Pb,7.91,3.28,Lulus,Lokasi 18,Auditor 219,-,-
+220,2024-06-19,Tanah,pH,2.66,2.68,Lulus,Lokasi 19,Auditor 220,-,-
+221,2023-10-18,Air,pH,2.86,2.05,Lulus,Lokasi 20,Auditor 221,-,-
+222,2024-12-30,Air,pH,4.09,3.53,Lulus,Lokasi 21,Auditor 222,-,-
+223,2024-04-27,Air,pH,7.04,7.38,Tidak Lulus,Lokasi 22,Auditor 223,-,-
+224,2024-02-10,Udara,pH,6.89,6.15,Lulus,Lokasi 23,Auditor 224,-,-
+225,2024-12-07,Udara,CO2,3.14,7.42,Tidak Lulus,Lokasi 24,Auditor 225,-,-
+226,2023-06-22,Tanah,Pb,7.8,4.81,Tidak Lulus,Lokasi 25,Auditor 226,-,-
+227,2023-10-07,Tanah,CO2,2.63,2.82,Lulus,Lokasi 26,Auditor 227,-,-
+228,2024-10-27,Tanah,pH,9.86,1.7,Lulus,Lokasi 27,Auditor 228,-,-
+229,2024-12-05,Udara,Pb,5.61,6.55,Tidak Lulus,Lokasi 28,Auditor 229,-,-
+230,2023-03-28,Tanah,CO2,9.9,2.3,Lulus,Lokasi 29,Auditor 230,-,-
+231,2024-03-03,Air,CO2,2.45,4.62,Tidak Lulus,Lokasi 30,Auditor 231,-,-
+232,2023-09-28,Tanah,Pb,9.29,2.35,Tidak Lulus,Lokasi 31,Auditor 232,-,-
+233,2023-04-15,Tanah,Pb,1.29,5.63,Lulus,Lokasi 32,Auditor 233,-,-
+234,2024-10-20,Air,Pb,9.04,1.01,Tidak Lulus,Lokasi 33,Auditor 234,-,-
+235,2023-04-11,Udara,Pb,9.56,2.35,Tidak Lulus,Lokasi 34,Auditor 235,-,-
+236,2024-12-13,Udara,pH,2.08,6.82,Tidak Lulus,Lokasi 35,Auditor 236,-,-
+237,2023-06-08,Tanah,CO2,9.79,4.81,Tidak Lulus,Lokasi 36,Auditor 237,-,-
+238,2023-12-04,Air,CO2,2.51,3.45,Tidak Lulus,Lokasi 37,Auditor 238,-,-
+239,2023-02-21,Tanah,CO2,0.79,5.1,Tidak Lulus,Lokasi 38,Auditor 239,-,-
+240,2024-08-16,Air,CO2,7.99,7.22,Tidak Lulus,Lokasi 39,Auditor 240,-,-
+241,2024-05-24,Tanah,pH,1.92,2.13,Tidak Lulus,Lokasi 0,Auditor 241,-,-
+242,2024-09-08,Udara,CO2,5.5,2.51,Lulus,Lokasi 1,Auditor 242,-,-
+243,2024-06-07,Tanah,CO2,0.43,3.17,Lulus,Lokasi 2,Auditor 243,-,-
+244,2023-08-22,Tanah,pH,9.93,6.2,Lulus,Lokasi 3,Auditor 244,-,-
+245,2023-07-03,Tanah,CO2,3.29,7.64,Tidak Lulus,Lokasi 4,Auditor 245,-,-
+246,2024-04-15,Tanah,pH,2.56,1.33,Lulus,Lokasi 5,Auditor 246,-,-
+247,2024-03-21,Udara,CO2,3.24,1.75,Tidak Lulus,Lokasi 6,Auditor 247,-,-
+248,2023-09-15,Udara,Pb,5.03,4.21,Lulus,Lokasi 7,Auditor 248,-,-
+249,2024-09-19,Udara,pH,5.88,7.61,Lulus,Lokasi 8,Auditor 249,-,-
+250,2024-04-02,Tanah,Pb,4.97,4.05,Lulus,Lokasi 9,Auditor 250,-,-
+251,2024-09-06,Air,CO2,6.34,2.22,Tidak Lulus,Lokasi 10,Auditor 251,-,-
+252,2023-01-09,Air,pH,6.57,1.17,Lulus,Lokasi 11,Auditor 252,-,-
+253,2023-11-15,Udara,Pb,0.28,1.32,Lulus,Lokasi 12,Auditor 253,-,-
+254,2024-05-11,Tanah,CO2,5.19,1.75,Tidak Lulus,Lokasi 13,Auditor 254,-,-
+255,2023-04-11,Tanah,Pb,1.35,5.68,Lulus,Lokasi 14,Auditor 255,-,-
+256,2023-10-24,Udara,CO2,7.12,3.49,Lulus,Lokasi 15,Auditor 256,-,-
+257,2024-12-02,Udara,Pb,1.55,6.15,Tidak Lulus,Lokasi 16,Auditor 257,-,-
+258,2024-12-17,Air,CO2,3.6,2.3,Lulus,Lokasi 17,Auditor 258,-,-
+259,2024-05-22,Tanah,Pb,2.68,5.07,Tidak Lulus,Lokasi 18,Auditor 259,-,-
+260,2024-10-21,Air,CO2,1.16,4.18,Tidak Lulus,Lokasi 19,Auditor 260,-,-
+261,2024-12-26,Udara,pH,7.13,7.37,Tidak Lulus,Lokasi 20,Auditor 261,-,-
+262,2024-12-29,Tanah,Pb,9.08,1.6,Lulus,Lokasi 21,Auditor 262,-,-
+263,2024-03-06,Air,pH,0.83,2.19,Tidak Lulus,Lokasi 22,Auditor 263,-,-
+264,2024-08-19,Tanah,CO2,3.24,3.4,Tidak Lulus,Lokasi 23,Auditor 264,-,-
+265,2024-09-14,Tanah,Pb,9.43,4.11,Lulus,Lokasi 24,Auditor 265,-,-
+266,2023-08-31,Udara,pH,0.72,4.0,Tidak Lulus,Lokasi 25,Auditor 266,-,-
+267,2024-11-18,Tanah,CO2,6.23,7.57,Lulus,Lokasi 26,Auditor 267,-,-
+268,2024-10-19,Udara,Pb,8.95,3.12,Lulus,Lokasi 27,Auditor 268,-,-
+269,2024-03-23,Udara,Pb,9.71,6.29,Lulus,Lokasi 28,Auditor 269,-,-
+270,2023-06-16,Udara,pH,1.73,7.58,Lulus,Lokasi 29,Auditor 270,-,-
+271,2023-06-21,Tanah,pH,9.83,1.29,Lulus,Lokasi 30,Auditor 271,-,-
+272,2024-06-25,Tanah,Pb,5.53,2.46,Lulus,Lokasi 31,Auditor 272,-,-
+273,2024-02-15,Air,Pb,4.41,3.08,Tidak Lulus,Lokasi 32,Auditor 273,-,-
+274,2024-03-24,Udara,pH,6.03,3.34,Tidak Lulus,Lokasi 33,Auditor 274,-,-
+275,2023-10-10,Udara,Pb,2.9,2.24,Lulus,Lokasi 34,Auditor 275,-,-
+276,2023-02-22,Udara,pH,4.11,1.01,Lulus,Lokasi 35,Auditor 276,-,-
+277,2024-03-26,Air,pH,7.95,3.54,Lulus,Lokasi 36,Auditor 277,-,-
+278,2023-12-11,Air,CO2,3.23,7.86,Lulus,Lokasi 37,Auditor 278,-,-
+279,2023-04-02,Udara,pH,2.89,3.61,Lulus,Lokasi 38,Auditor 279,-,-
+280,2024-08-18,Udara,pH,9.23,5.9,Tidak Lulus,Lokasi 39,Auditor 280,-,-
+281,2024-04-21,Tanah,pH,3.9,2.76,Lulus,Lokasi 0,Auditor 281,-,-
+282,2024-08-14,Air,CO2,0.12,1.51,Lulus,Lokasi 1,Auditor 282,-,-
+283,2024-09-12,Udara,pH,1.5,1.47,Lulus,Lokasi 2,Auditor 283,-,-
+284,2024-11-01,Udara,pH,3.01,1.04,Tidak Lulus,Lokasi 3,Auditor 284,-,-
+285,2023-01-02,Tanah,Pb,2.92,4.45,Tidak Lulus,Lokasi 4,Auditor 285,-,-
+286,2024-10-30,Tanah,Pb,9.31,5.17,Lulus,Lokasi 5,Auditor 286,-,-
+287,2023-04-07,Udara,pH,5.75,6.35,Lulus,Lokasi 6,Auditor 287,-,-
+288,2023-07-08,Udara,Pb,3.83,2.07,Tidak Lulus,Lokasi 7,Auditor 288,-,-
+289,2023-11-18,Tanah,Pb,6.46,6.06,Tidak Lulus,Lokasi 8,Auditor 289,-,-
+290,2024-11-12,Tanah,pH,7.31,2.21,Lulus,Lokasi 9,Auditor 290,-,-
+291,2024-09-06,Tanah,Pb,8.85,6.72,Lulus,Lokasi 10,Auditor 291,-,-
+292,2023-04-22,Tanah,CO2,0.2,2.93,Tidak Lulus,Lokasi 11,Auditor 292,-,-
+293,2023-08-05,Tanah,Pb,9.95,2.52,Tidak Lulus,Lokasi 12,Auditor 293,-,-
+294,2024-09-16,Air,CO2,3.08,2.91,Tidak Lulus,Lokasi 13,Auditor 294,-,-
+295,2023-07-18,Udara,CO2,5.46,7.95,Lulus,Lokasi 14,Auditor 295,-,-
+296,2023-03-17,Air,Pb,5.62,2.6,Tidak Lulus,Lokasi 15,Auditor 296,-,-
+297,2024-06-28,Udara,CO2,2.85,4.73,Tidak Lulus,Lokasi 16,Auditor 297,-,-
+298,2024-04-14,Tanah,Pb,7.8,1.27,Lulus,Lokasi 17,Auditor 298,-,-
+299,2024-08-16,Udara,CO2,3.07,6.38,Tidak Lulus,Lokasi 18,Auditor 299,-,-
+300,2024-03-26,Udara,pH,9.22,2.12,Tidak Lulus,Lokasi 19,Auditor 300,-,-
+301,2023-09-04,Air,Pb,1.51,7.46,Lulus,Lokasi 20,Auditor 301,-,-
+302,2024-04-12,Air,Pb,6.16,1.37,Tidak Lulus,Lokasi 21,Auditor 302,-,-
+303,2023-05-06,Tanah,pH,8.52,3.83,Tidak Lulus,Lokasi 22,Auditor 303,-,-
+304,2024-02-08,Air,pH,2.49,4.62,Lulus,Lokasi 23,Auditor 304,-,-
+305,2024-07-17,Udara,CO2,9.74,3.78,Tidak Lulus,Lokasi 24,Auditor 305,-,-
+306,2023-08-10,Tanah,pH,5.47,6.09,Tidak Lulus,Lokasi 25,Auditor 306,-,-
+307,2024-05-04,Tanah,CO2,5.76,7.7,Tidak Lulus,Lokasi 26,Auditor 307,-,-
+308,2024-09-29,Air,Pb,2.77,5.33,Lulus,Lokasi 27,Auditor 308,-,-
+309,2023-08-17,Air,Pb,4.72,3.39,Tidak Lulus,Lokasi 28,Auditor 309,-,-
+310,2023-07-27,Air,CO2,7.83,7.4,Tidak Lulus,Lokasi 29,Auditor 310,-,-
+311,2024-08-01,Tanah,pH,9.43,5.88,Lulus,Lokasi 30,Auditor 311,-,-
+312,2024-05-25,Udara,Pb,1.74,4.05,Tidak Lulus,Lokasi 31,Auditor 312,-,-
+313,2024-12-29,Udara,CO2,7.4,7.22,Tidak Lulus,Lokasi 32,Auditor 313,-,-
+314,2024-12-23,Udara,pH,1.02,7.67,Lulus,Lokasi 33,Auditor 314,-,-
+315,2024-06-28,Air,Pb,9.41,2.13,Tidak Lulus,Lokasi 34,Auditor 315,-,-
+316,2024-12-29,Udara,pH,7.29,7.66,Lulus,Lokasi 35,Auditor 316,-,-
+317,2023-03-06,Udara,pH,3.07,4.09,Lulus,Lokasi 36,Auditor 317,-,-
+318,2023-03-03,Tanah,pH,2.99,5.3,Tidak Lulus,Lokasi 37,Auditor 318,-,-
+319,2024-06-13,Tanah,pH,1.97,5.79,Lulus,Lokasi 38,Auditor 319,-,-
+320,2023-11-18,Udara,CO2,9.7,1.65,Lulus,Lokasi 39,Auditor 320,-,-
+321,2024-09-12,Tanah,Pb,0.75,3.16,Lulus,Lokasi 0,Auditor 321,-,-
+322,2024-10-08,Tanah,pH,8.45,2.37,Tidak Lulus,Lokasi 1,Auditor 322,-,-
+323,2024-11-27,Udara,Pb,4.11,6.09,Lulus,Lokasi 2,Auditor 323,-,-
+324,2023-08-19,Tanah,CO2,5.63,3.97,Lulus,Lokasi 3,Auditor 324,-,-
+325,2023-10-15,Udara,pH,0.54,1.66,Tidak Lulus,Lokasi 4,Auditor 325,-,-
+326,2023-03-09,Udara,CO2,9.6,5.33,Tidak Lulus,Lokasi 5,Auditor 326,-,-
+327,2024-02-23,Tanah,CO2,7.96,2.73,Tidak Lulus,Lokasi 6,Auditor 327,-,-
+328,2023-01-30,Udara,Pb,2.71,6.67,Tidak Lulus,Lokasi 7,Auditor 328,-,-
+329,2024-06-23,Tanah,pH,0.95,5.07,Lulus,Lokasi 8,Auditor 329,-,-
+330,2024-03-24,Udara,pH,1.7,7.66,Tidak Lulus,Lokasi 9,Auditor 330,-,-
+331,2023-04-14,Air,CO2,2.64,5.64,Lulus,Lokasi 10,Auditor 331,-,-
+332,2024-12-15,Udara,CO2,0.37,7.93,Lulus,Lokasi 11,Auditor 332,-,-
+333,2023-03-09,Air,pH,1.89,1.79,Lulus,Lokasi 12,Auditor 333,-,-
+334,2024-01-12,Udara,Pb,9.57,6.45,Lulus,Lokasi 13,Auditor 334,-,-
+335,2024-04-03,Air,pH,0.78,5.73,Lulus,Lokasi 14,Auditor 335,-,-
+336,2024-12-11,Air,pH,3.36,4.25,Tidak Lulus,Lokasi 15,Auditor 336,-,-
+337,2024-11-04,Udara,Pb,1.83,6.19,Lulus,Lokasi 16,Auditor 337,-,-
+338,2024-01-15,Tanah,pH,8.46,6.66,Lulus,Lokasi 17,Auditor 338,-,-
+339,2023-11-20,Air,Pb,9.19,1.39,Lulus,Lokasi 18,Auditor 339,-,-
+340,2024-02-29,Air,CO2,2.52,5.42,Lulus,Lokasi 19,Auditor 340,-,-
+341,2024-01-24,Tanah,Pb,9.21,3.3,Tidak Lulus,Lokasi 20,Auditor 341,-,-
+342,2024-10-16,Tanah,pH,8.17,3.21,Tidak Lulus,Lokasi 21,Auditor 342,-,-
+343,2023-05-15,Tanah,pH,8.42,2.18,Lulus,Lokasi 22,Auditor 343,-,-
+344,2024-10-10,Udara,pH,8.97,5.76,Tidak Lulus,Lokasi 23,Auditor 344,-,-
+345,2024-02-16,Udara,pH,9.41,2.1,Tidak Lulus,Lokasi 24,Auditor 345,-,-
+346,2023-05-13,Udara,Pb,4.48,5.36,Lulus,Lokasi 25,Auditor 346,-,-
+347,2023-01-03,Air,Pb,5.55,2.84,Tidak Lulus,Lokasi 26,Auditor 347,-,-
+348,2023-04-29,Udara,pH,7.7,4.38,Tidak Lulus,Lokasi 27,Auditor 348,-,-
+349,2023-10-07,Tanah,pH,0.17,3.71,Lulus,Lokasi 28,Auditor 349,-,-
+350,2023-12-14,Tanah,Pb,4.96,1.92,Tidak Lulus,Lokasi 29,Auditor 350,-,-
+351,2024-04-23,Tanah,CO2,7.92,3.19,Tidak Lulus,Lokasi 30,Auditor 351,-,-
+352,2023-07-19,Udara,Pb,7.63,3.48,Lulus,Lokasi 31,Auditor 352,-,-
+353,2023-02-15,Tanah,pH,4.84,4.45,Tidak Lulus,Lokasi 32,Auditor 353,-,-
+354,2024-06-18,Tanah,CO2,5.49,4.46,Lulus,Lokasi 33,Auditor 354,-,-
+355,2024-03-19,Tanah,pH,8.66,4.24,Lulus,Lokasi 34,Auditor 355,-,-
+356,2023-03-20,Udara,Pb,5.61,7.02,Lulus,Lokasi 35,Auditor 356,-,-
+357,2024-10-27,Tanah,CO2,6.18,4.88,Tidak Lulus,Lokasi 36,Auditor 357,-,-
+358,2024-01-24,Air,pH,6.57,4.43,Lulus,Lokasi 37,Auditor 358,-,-
+359,2024-05-04,Udara,pH,1.71,2.55,Lulus,Lokasi 38,Auditor 359,-,-
+360,2023-04-03,Air,pH,8.16,1.43,Tidak Lulus,Lokasi 39,Auditor 360,-,-
+361,2023-05-12,Udara,Pb,6.3,7.96,Tidak Lulus,Lokasi 0,Auditor 361,-,-
+362,2023-10-18,Air,pH,4.2,1.82,Lulus,Lokasi 1,Auditor 362,-,-
+363,2023-07-11,Tanah,pH,3.46,5.29,Tidak Lulus,Lokasi 2,Auditor 363,-,-
+364,2024-07-12,Udara,pH,5.47,2.17,Lulus,Lokasi 3,Auditor 364,-,-
+365,2023-05-04,Udara,Pb,2.7,3.96,Lulus,Lokasi 4,Auditor 365,-,-
+366,2024-04-14,Udara,pH,4.89,3.37,Lulus,Lokasi 5,Auditor 366,-,-
+367,2024-09-24,Udara,CO2,0.73,7.79,Lulus,Lokasi 6,Auditor 367,-,-
+368,2023-06-17,Air,pH,9.48,6.62,Tidak Lulus,Lokasi 7,Auditor 368,-,-
+369,2024-11-12,Udara,Pb,8.6,7.87,Tidak Lulus,Lokasi 8,Auditor 369,-,-
+370,2023-12-15,Air,Pb,5.11,7.47,Lulus,Lokasi 9,Auditor 370,-,-
+371,2023-05-23,Udara,pH,4.9,1.38,Lulus,Lokasi 10,Auditor 371,-,-
+372,2024-01-29,Air,Pb,6.71,2.39,Tidak Lulus,Lokasi 11,Auditor 372,-,-
+373,2023-03-05,Air,Pb,1.05,1.91,Tidak Lulus,Lokasi 12,Auditor 373,-,-
+374,2024-02-12,Udara,CO2,6.09,4.89,Lulus,Lokasi 13,Auditor 374,-,-
+375,2023-08-27,Air,CO2,1.75,3.76,Lulus,Lokasi 14,Auditor 375,-,-
+376,2023-06-08,Air,Pb,7.5,2.03,Lulus,Lokasi 15,Auditor 376,-,-
+377,2023-09-20,Udara,CO2,4.79,6.24,Lulus,Lokasi 16,Auditor 377,-,-
+378,2023-09-20,Udara,pH,9.7,4.64,Lulus,Lokasi 17,Auditor 378,-,-
+379,2023-09-16,Tanah,CO2,3.84,6.05,Tidak Lulus,Lokasi 18,Auditor 379,-,-
+380,2023-05-06,Tanah,CO2,4.47,1.99,Lulus,Lokasi 19,Auditor 380,-,-
+381,2024-01-22,Air,pH,9.77,2.47,Tidak Lulus,Lokasi 20,Auditor 381,-,-
+382,2023-10-08,Tanah,pH,6.81,5.22,Tidak Lulus,Lokasi 21,Auditor 382,-,-
+383,2023-05-26,Tanah,Pb,9.83,6.1,Lulus,Lokasi 22,Auditor 383,-,-
+384,2023-07-28,Tanah,pH,3.44,6.57,Tidak Lulus,Lokasi 23,Auditor 384,-,-
+385,2024-09-25,Tanah,Pb,4.48,3.8,Lulus,Lokasi 24,Auditor 385,-,-
+386,2023-02-18,Tanah,Pb,5.19,1.34,Lulus,Lokasi 25,Auditor 386,-,-
+387,2024-09-28,Udara,pH,1.91,5.89,Tidak Lulus,Lokasi 26,Auditor 387,-,-
+388,2023-10-19,Udara,pH,9.17,7.06,Tidak Lulus,Lokasi 27,Auditor 388,-,-
+389,2024-11-03,Tanah,CO2,9.53,1.33,Tidak Lulus,Lokasi 28,Auditor 389,-,-
+390,2023-07-15,Tanah,CO2,5.07,2.85,Tidak Lulus,Lokasi 29,Auditor 390,-,-
+391,2024-07-07,Air,Pb,1.73,1.16,Lulus,Lokasi 30,Auditor 391,-,-
+392,2023-05-11,Air,CO2,6.76,2.3,Tidak Lulus,Lokasi 31,Auditor 392,-,-
+393,2024-07-31,Air,pH,6.81,6.94,Tidak Lulus,Lokasi 32,Auditor 393,-,-
+394,2023-07-25,Air,pH,7.21,3.92,Tidak Lulus,Lokasi 33,Auditor 394,-,-
+395,2023-01-14,Udara,pH,5.24,7.73,Lulus,Lokasi 34,Auditor 395,-,-
+396,2024-06-14,Air,Pb,5.64,4.67,Lulus,Lokasi 35,Auditor 396,-,-
+397,2023-06-03,Air,CO2,1.63,1.46,Tidak Lulus,Lokasi 36,Auditor 397,-,-
+398,2024-08-01,Tanah,pH,8.57,4.12,Tidak Lulus,Lokasi 37,Auditor 398,-,-
+399,2023-06-15,Udara,Pb,4.58,1.31,Lulus,Lokasi 38,Auditor 399,-,-
+400,2023-10-22,Udara,CO2,8.5,3.3,Lulus,Lokasi 39,Auditor 400,-,-
+401,2023-01-25,Udara,pH,5.14,3.24,Lulus,Lokasi 0,Auditor 401,-,-
+402,2023-05-02,Udara,CO2,6.03,7.97,Tidak Lulus,Lokasi 1,Auditor 402,-,-
+403,2023-02-07,Udara,Pb,7.68,6.17,Lulus,Lokasi 2,Auditor 403,-,-
+404,2023-02-22,Air,CO2,4.1,3.48,Lulus,Lokasi 3,Auditor 404,-,-
+405,2024-01-13,Udara,pH,5.86,3.44,Tidak Lulus,Lokasi 4,Auditor 405,-,-
+406,2024-09-19,Air,Pb,8.69,3.74,Tidak Lulus,Lokasi 5,Auditor 406,-,-
+407,2023-10-31,Air,Pb,8.95,7.15,Tidak Lulus,Lokasi 6,Auditor 407,-,-
+408,2024-01-26,Air,pH,1.78,6.31,Tidak Lulus,Lokasi 7,Auditor 408,-,-
+409,2023-09-02,Tanah,pH,6.87,3.86,Lulus,Lokasi 8,Auditor 409,-,-
+410,2023-04-21,Udara,pH,5.22,1.65,Tidak Lulus,Lokasi 9,Auditor 410,-,-
+411,2024-02-21,Air,Pb,8.78,7.03,Lulus,Lokasi 10,Auditor 411,-,-
+412,2023-10-14,Tanah,CO2,7.47,4.93,Lulus,Lokasi 11,Auditor 412,-,-
+413,2024-10-21,Air,pH,3.12,6.81,Tidak Lulus,Lokasi 12,Auditor 413,-,-
+414,2024-07-13,Air,Pb,1.86,4.35,Tidak Lulus,Lokasi 13,Auditor 414,-,-
+415,2024-11-28,Tanah,CO2,7.76,6.59,Tidak Lulus,Lokasi 14,Auditor 415,-,-
+416,2023-04-01,Tanah,Pb,6.22,2.97,Tidak Lulus,Lokasi 15,Auditor 416,-,-
+417,2023-06-22,Udara,Pb,4.14,1.47,Tidak Lulus,Lokasi 16,Auditor 417,-,-
+418,2024-03-17,Tanah,pH,7.87,5.55,Lulus,Lokasi 17,Auditor 418,-,-
+419,2024-11-26,Air,pH,7.69,4.16,Tidak Lulus,Lokasi 18,Auditor 419,-,-
+420,2023-09-16,Tanah,CO2,1.3,1.59,Lulus,Lokasi 19,Auditor 420,-,-
+421,2024-11-21,Tanah,pH,5.64,6.88,Tidak Lulus,Lokasi 20,Auditor 421,-,-
+422,2024-11-16,Air,Pb,0.4,6.34,Tidak Lulus,Lokasi 21,Auditor 422,-,-
+423,2024-07-12,Udara,pH,9.17,2.94,Lulus,Lokasi 22,Auditor 423,-,-
+424,2024-04-23,Air,Pb,2.74,7.35,Lulus,Lokasi 23,Auditor 424,-,-
+425,2023-12-01,Udara,CO2,5.74,2.05,Tidak Lulus,Lokasi 24,Auditor 425,-,-
+426,2023-03-28,Udara,Pb,5.41,6.51,Tidak Lulus,Lokasi 25,Auditor 426,-,-
+427,2024-03-10,Udara,pH,0.46,1.9,Tidak Lulus,Lokasi 26,Auditor 427,-,-
+428,2024-11-10,Air,CO2,0.72,1.79,Lulus,Lokasi 27,Auditor 428,-,-
+429,2024-10-25,Tanah,pH,6.27,3.08,Lulus,Lokasi 28,Auditor 429,-,-
+430,2024-09-13,Udara,pH,9.18,5.31,Lulus,Lokasi 29,Auditor 430,-,-
+431,2024-08-16,Tanah,pH,0.4,3.12,Lulus,Lokasi 30,Auditor 431,-,-
+432,2024-08-17,Udara,CO2,9.57,6.7,Lulus,Lokasi 31,Auditor 432,-,-
+433,2023-03-11,Air,pH,9.07,4.92,Tidak Lulus,Lokasi 32,Auditor 433,-,-
+434,2023-07-23,Air,pH,9.31,5.04,Lulus,Lokasi 33,Auditor 434,-,-
+435,2023-12-13,Udara,CO2,7.14,2.2,Lulus,Lokasi 34,Auditor 435,-,-
+436,2023-08-21,Air,pH,8.87,5.32,Tidak Lulus,Lokasi 35,Auditor 436,-,-
+437,2023-03-01,Udara,Pb,1.84,5.35,Tidak Lulus,Lokasi 36,Auditor 437,-,-
+438,2023-08-25,Air,CO2,4.43,5.6,Lulus,Lokasi 37,Auditor 438,-,-
+439,2023-03-21,Tanah,Pb,5.39,3.21,Lulus,Lokasi 38,Auditor 439,-,-
+440,2023-01-30,Udara,CO2,3.58,5.94,Lulus,Lokasi 39,Auditor 440,-,-
+441,2024-10-19,Udara,Pb,7.8,4.68,Lulus,Lokasi 0,Auditor 441,-,-
+442,2023-11-25,Air,CO2,8.81,2.27,Tidak Lulus,Lokasi 1,Auditor 442,-,-
+443,2024-11-05,Udara,Pb,8.49,1.71,Tidak Lulus,Lokasi 2,Auditor 443,-,-
+444,2023-11-15,Udara,Pb,9.07,2.87,Lulus,Lokasi 3,Auditor 444,-,-
+445,2023-07-07,Tanah,CO2,9.02,2.63,Tidak Lulus,Lokasi 4,Auditor 445,-,-
+446,2023-07-09,Udara,Pb,2.29,1.86,Tidak Lulus,Lokasi 5,Auditor 446,-,-
+447,2024-02-16,Udara,CO2,2.11,4.08,Tidak Lulus,Lokasi 6,Auditor 447,-,-
+448,2024-03-29,Tanah,Pb,5.22,4.0,Lulus,Lokasi 7,Auditor 448,-,-
+449,2024-03-18,Air,Pb,0.92,6.9,Tidak Lulus,Lokasi 8,Auditor 449,-,-
+450,2023-08-24,Tanah,CO2,5.2,7.66,Tidak Lulus,Lokasi 9,Auditor 450,-,-
+451,2024-08-14,Air,Pb,7.69,3.19,Lulus,Lokasi 10,Auditor 451,-,-
+452,2023-09-17,Air,CO2,5.8,1.79,Lulus,Lokasi 11,Auditor 452,-,-
+453,2023-08-02,Air,pH,4.95,5.2,Tidak Lulus,Lokasi 12,Auditor 453,-,-
+454,2024-05-14,Air,Pb,2.04,7.2,Tidak Lulus,Lokasi 13,Auditor 454,-,-
+455,2023-06-17,Air,pH,3.25,3.81,Tidak Lulus,Lokasi 14,Auditor 455,-,-
+456,2024-06-10,Air,pH,5.84,2.77,Tidak Lulus,Lokasi 15,Auditor 456,-,-
+457,2024-08-29,Tanah,Pb,8.33,7.0,Lulus,Lokasi 16,Auditor 457,-,-
+458,2023-07-12,Tanah,CO2,9.14,3.65,Lulus,Lokasi 17,Auditor 458,-,-
+459,2023-11-27,Udara,pH,2.86,7.91,Tidak Lulus,Lokasi 18,Auditor 459,-,-
+460,2023-06-19,Air,pH,8.85,6.18,Tidak Lulus,Lokasi 19,Auditor 460,-,-
+461,2024-06-02,Air,pH,2.65,3.76,Tidak Lulus,Lokasi 20,Auditor 461,-,-
+462,2023-09-03,Air,pH,8.88,6.5,Tidak Lulus,Lokasi 21,Auditor 462,-,-
+463,2023-11-04,Udara,CO2,4.09,1.31,Lulus,Lokasi 22,Auditor 463,-,-
+464,2023-10-17,Air,CO2,6.09,7.17,Tidak Lulus,Lokasi 23,Auditor 464,-,-
+465,2023-05-23,Air,Pb,0.29,5.2,Lulus,Lokasi 24,Auditor 465,-,-
+466,2023-03-04,Air,pH,4.01,4.73,Lulus,Lokasi 25,Auditor 466,-,-
+467,2024-09-11,Udara,pH,7.01,4.02,Lulus,Lokasi 26,Auditor 467,-,-
+468,2024-09-22,Tanah,CO2,4.96,1.89,Tidak Lulus,Lokasi 27,Auditor 468,-,-
+469,2024-08-05,Tanah,pH,2.02,4.22,Tidak Lulus,Lokasi 28,Auditor 469,-,-
+470,2024-03-08,Tanah,Pb,0.34,3.39,Lulus,Lokasi 29,Auditor 470,-,-
+471,2023-05-24,Tanah,Pb,2.03,6.99,Tidak Lulus,Lokasi 30,Auditor 471,-,-
+472,2024-06-17,Udara,pH,4.48,2.76,Tidak Lulus,Lokasi 31,Auditor 472,-,-
+473,2024-04-05,Air,pH,5.34,4.69,Tidak Lulus,Lokasi 32,Auditor 473,-,-
+474,2023-08-23,Udara,CO2,7.59,5.37,Tidak Lulus,Lokasi 33,Auditor 474,-,-
+475,2024-09-04,Air,CO2,5.81,6.71,Tidak Lulus,Lokasi 34,Auditor 475,-,-
+476,2023-09-01,Udara,Pb,1.48,2.99,Lulus,Lokasi 35,Auditor 476,-,-
+477,2023-01-17,Tanah,Pb,9.92,5.41,Tidak Lulus,Lokasi 36,Auditor 477,-,-
+478,2024-11-16,Tanah,CO2,1.07,6.92,Tidak Lulus,Lokasi 37,Auditor 478,-,-
+479,2023-05-04,Udara,pH,1.96,1.0,Tidak Lulus,Lokasi 38,Auditor 479,-,-
+480,2023-12-19,Tanah,pH,4.85,4.88,Lulus,Lokasi 39,Auditor 480,-,-
+481,2024-02-28,Air,CO2,5.91,6.78,Lulus,Lokasi 0,Auditor 481,-,-
+482,2023-07-27,Air,Pb,7.7,6.56,Lulus,Lokasi 1,Auditor 482,-,-
+483,2024-05-30,Udara,pH,4.77,7.85,Tidak Lulus,Lokasi 2,Auditor 483,-,-
+484,2024-02-16,Udara,CO2,6.02,7.0,Tidak Lulus,Lokasi 3,Auditor 484,-,-
+485,2024-05-13,Udara,CO2,9.15,3.52,Tidak Lulus,Lokasi 4,Auditor 485,-,-
+486,2024-05-03,Tanah,pH,7.94,4.43,Lulus,Lokasi 5,Auditor 486,-,-
+487,2024-12-01,Udara,CO2,1.63,4.24,Tidak Lulus,Lokasi 6,Auditor 487,-,-
+488,2023-05-07,Air,Pb,1.43,5.1,Lulus,Lokasi 7,Auditor 488,-,-
+489,2024-09-05,Tanah,CO2,3.26,2.52,Lulus,Lokasi 8,Auditor 489,-,-
+490,2023-06-27,Air,pH,1.36,6.4,Lulus,Lokasi 9,Auditor 490,-,-
+491,2024-04-07,Air,pH,3.61,4.92,Lulus,Lokasi 10,Auditor 491,-,-
+492,2024-12-22,Udara,Pb,9.66,1.97,Lulus,Lokasi 11,Auditor 492,-,-
+493,2024-09-03,Tanah,Pb,9.17,8.0,Tidak Lulus,Lokasi 12,Auditor 493,-,-
+494,2023-10-12,Air,pH,3.45,5.4,Tidak Lulus,Lokasi 13,Auditor 494,-,-
+495,2023-05-25,Udara,pH,2.14,4.72,Tidak Lulus,Lokasi 14,Auditor 495,-,-
+496,2023-03-21,Air,pH,6.56,3.1,Lulus,Lokasi 15,Auditor 496,-,-
+497,2024-02-03,Air,pH,9.33,6.62,Tidak Lulus,Lokasi 16,Auditor 497,-,-
+498,2023-04-14,Tanah,pH,7.97,6.97,Tidak Lulus,Lokasi 17,Auditor 498,-,-
+499,2024-11-01,Tanah,pH,7.54,6.65,Lulus,Lokasi 18,Auditor 499,-,-
+500,2024-12-23,Tanah,CO2,2.99,2.32,Lulus,Lokasi 19,Auditor 500,-,-

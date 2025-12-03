@@ -1,0 +1,501 @@
+supplier_id,nama,kategori
+1,Supplier 1,Jasa
+2,Supplier 2,Sparepart
+3,Supplier 3,Sparepart
+4,Supplier 4,Jasa
+5,Supplier 5,Bahan Bakar
+6,Supplier 6,Jasa
+7,Supplier 7,Bahan Bakar
+8,Supplier 8,Sparepart
+9,Supplier 9,Sparepart
+10,Supplier 10,Bahan Bakar
+11,Supplier 11,Bahan Bakar
+12,Supplier 12,Bahan Bakar
+13,Supplier 13,Sparepart
+14,Supplier 14,Jasa
+15,Supplier 15,Sparepart
+16,Supplier 16,Jasa
+17,Supplier 17,Bahan Bakar
+18,Supplier 18,Bahan Bakar
+19,Supplier 19,Jasa
+20,Supplier 20,Jasa
+21,Supplier 21,Sparepart
+22,Supplier 22,Sparepart
+23,Supplier 23,Bahan Bakar
+24,Supplier 24,Jasa
+25,Supplier 25,Sparepart
+26,Supplier 26,Bahan Bakar
+27,Supplier 27,Jasa
+28,Supplier 28,Sparepart
+29,Supplier 29,Sparepart
+30,Supplier 30,Bahan Bakar
+31,Supplier 31,Jasa
+32,Supplier 32,Bahan Bakar
+33,Supplier 33,Sparepart
+34,Supplier 34,Sparepart
+35,Supplier 35,Jasa
+36,Supplier 36,Bahan Bakar
+37,Supplier 37,Sparepart
+38,Supplier 38,Jasa
+39,Supplier 39,Sparepart
+40,Supplier 40,Sparepart
+41,Supplier 41,Sparepart
+42,Supplier 42,Bahan Bakar
+43,Supplier 43,Sparepart
+44,Supplier 44,Sparepart
+45,Supplier 45,Bahan Bakar
+46,Supplier 46,Jasa
+47,Supplier 47,Sparepart
+48,Supplier 48,Jasa
+49,Supplier 49,Sparepart
+50,Supplier 50,Jasa
+51,Supplier 51,Sparepart
+52,Supplier 52,Jasa
+53,Supplier 53,Sparepart
+54,Supplier 54,Sparepart
+55,Supplier 55,Jasa
+56,Supplier 56,Sparepart
+57,Supplier 57,Bahan Bakar
+58,Supplier 58,Sparepart
+59,Supplier 59,Jasa
+60,Supplier 60,Sparepart
+61,Supplier 61,Sparepart
+62,Supplier 62,Bahan Bakar
+63,Supplier 63,Sparepart
+64,Supplier 64,Sparepart
+65,Supplier 65,Bahan Bakar
+66,Supplier 66,Bahan Bakar
+67,Supplier 67,Sparepart
+68,Supplier 68,Bahan Bakar
+69,Supplier 69,Sparepart
+70,Supplier 70,Sparepart
+71,Supplier 71,Bahan Bakar
+72,Supplier 72,Sparepart
+73,Supplier 73,Jasa
+74,Supplier 74,Bahan Bakar
+75,Supplier 75,Sparepart
+76,Supplier 76,Bahan Bakar
+77,Supplier 77,Bahan Bakar
+78,Supplier 78,Sparepart
+79,Supplier 79,Jasa
+80,Supplier 80,Jasa
+81,Supplier 81,Bahan Bakar
+82,Supplier 82,Bahan Bakar
+83,Supplier 83,Bahan Bakar
+84,Supplier 84,Bahan Bakar
+85,Supplier 85,Jasa
+86,Supplier 86,Sparepart
+87,Supplier 87,Bahan Bakar
+88,Supplier 88,Bahan Bakar
+89,Supplier 89,Sparepart
+90,Supplier 90,Sparepart
+91,Supplier 91,Bahan Bakar
+92,Supplier 92,Bahan Bakar
+93,Supplier 93,Sparepart
+94,Supplier 94,Bahan Bakar
+95,Supplier 95,Bahan Bakar
+96,Supplier 96,Bahan Bakar
+97,Supplier 97,Sparepart
+98,Supplier 98,Jasa
+99,Supplier 99,Sparepart
+100,Supplier 100,Bahan Bakar
+101,Supplier 101,Sparepart
+102,Supplier 102,Bahan Bakar
+103,Supplier 103,Jasa
+104,Supplier 104,Sparepart
+105,Supplier 105,Bahan Bakar
+106,Supplier 106,Bahan Bakar
+107,Supplier 107,Bahan Bakar
+108,Supplier 108,Sparepart
+109,Supplier 109,Bahan Bakar
+110,Supplier 110,Bahan Bakar
+111,Supplier 111,Jasa
+112,Supplier 112,Sparepart
+113,Supplier 113,Jasa
+114,Supplier 114,Bahan Bakar
+115,Supplier 115,Sparepart
+116,Supplier 116,Jasa
+117,Supplier 117,Bahan Bakar
+118,Supplier 118,Sparepart
+119,Supplier 119,Jasa
+120,Supplier 120,Jasa
+121,Supplier 121,Jasa
+122,Supplier 122,Bahan Bakar
+123,Supplier 123,Bahan Bakar
+124,Supplier 124,Bahan Bakar
+125,Supplier 125,Bahan Bakar
+126,Supplier 126,Bahan Bakar
+127,Supplier 127,Jasa
+128,Supplier 128,Jasa
+129,Supplier 129,Bahan Bakar
+130,Supplier 130,Sparepart
+131,Supplier 131,Bahan Bakar
+132,Supplier 132,Sparepart
+133,Supplier 133,Jasa
+134,Supplier 134,Jasa
+135,Supplier 135,Sparepart
+136,Supplier 136,Bahan Bakar
+137,Supplier 137,Jasa
+138,Supplier 138,Jasa
+139,Supplier 139,Sparepart
+140,Supplier 140,Bahan Bakar
+141,Supplier 141,Jasa
+142,Supplier 142,Sparepart
+143,Supplier 143,Sparepart
+144,Supplier 144,Bahan Bakar
+145,Supplier 145,Jasa
+146,Supplier 146,Bahan Bakar
+147,Supplier 147,Jasa
+148,Supplier 148,Bahan Bakar
+149,Supplier 149,Bahan Bakar
+150,Supplier 150,Bahan Bakar
+151,Supplier 151,Jasa
+152,Supplier 152,Bahan Bakar
+153,Supplier 153,Bahan Bakar
+154,Supplier 154,Sparepart
+155,Supplier 155,Sparepart
+156,Supplier 156,Jasa
+157,Supplier 157,Sparepart
+158,Supplier 158,Bahan Bakar
+159,Supplier 159,Jasa
+160,Supplier 160,Sparepart
+161,Supplier 161,Bahan Bakar
+162,Supplier 162,Bahan Bakar
+163,Supplier 163,Jasa
+164,Supplier 164,Bahan Bakar
+165,Supplier 165,Jasa
+166,Supplier 166,Jasa
+167,Supplier 167,Sparepart
+168,Supplier 168,Bahan Bakar
+169,Supplier 169,Bahan Bakar
+170,Supplier 170,Jasa
+171,Supplier 171,Jasa
+172,Supplier 172,Bahan Bakar
+173,Supplier 173,Jasa
+174,Supplier 174,Sparepart
+175,Supplier 175,Sparepart
+176,Supplier 176,Sparepart
+177,Supplier 177,Jasa
+178,Supplier 178,Jasa
+179,Supplier 179,Jasa
+180,Supplier 180,Bahan Bakar
+181,Supplier 181,Sparepart
+182,Supplier 182,Bahan Bakar
+183,Supplier 183,Bahan Bakar
+184,Supplier 184,Bahan Bakar
+185,Supplier 185,Sparepart
+186,Supplier 186,Bahan Bakar
+187,Supplier 187,Sparepart
+188,Supplier 188,Sparepart
+189,Supplier 189,Jasa
+190,Supplier 190,Bahan Bakar
+191,Supplier 191,Sparepart
+192,Supplier 192,Jasa
+193,Supplier 193,Sparepart
+194,Supplier 194,Sparepart
+195,Supplier 195,Jasa
+196,Supplier 196,Jasa
+197,Supplier 197,Bahan Bakar
+198,Supplier 198,Sparepart
+199,Supplier 199,Bahan Bakar
+200,Supplier 200,Sparepart
+201,Supplier 201,Jasa
+202,Supplier 202,Jasa
+203,Supplier 203,Bahan Bakar
+204,Supplier 204,Sparepart
+205,Supplier 205,Jasa
+206,Supplier 206,Bahan Bakar
+207,Supplier 207,Bahan Bakar
+208,Supplier 208,Bahan Bakar
+209,Supplier 209,Bahan Bakar
+210,Supplier 210,Jasa
+211,Supplier 211,Bahan Bakar
+212,Supplier 212,Bahan Bakar
+213,Supplier 213,Sparepart
+214,Supplier 214,Jasa
+215,Supplier 215,Bahan Bakar
+216,Supplier 216,Bahan Bakar
+217,Supplier 217,Jasa
+218,Supplier 218,Jasa
+219,Supplier 219,Bahan Bakar
+220,Supplier 220,Jasa
+221,Supplier 221,Bahan Bakar
+222,Supplier 222,Sparepart
+223,Supplier 223,Jasa
+224,Supplier 224,Jasa
+225,Supplier 225,Sparepart
+226,Supplier 226,Jasa
+227,Supplier 227,Sparepart
+228,Supplier 228,Bahan Bakar
+229,Supplier 229,Jasa
+230,Supplier 230,Jasa
+231,Supplier 231,Jasa
+232,Supplier 232,Sparepart
+233,Supplier 233,Sparepart
+234,Supplier 234,Sparepart
+235,Supplier 235,Jasa
+236,Supplier 236,Sparepart
+237,Supplier 237,Jasa
+238,Supplier 238,Bahan Bakar
+239,Supplier 239,Sparepart
+240,Supplier 240,Jasa
+241,Supplier 241,Sparepart
+242,Supplier 242,Sparepart
+243,Supplier 243,Jasa
+244,Supplier 244,Bahan Bakar
+245,Supplier 245,Sparepart
+246,Supplier 246,Sparepart
+247,Supplier 247,Jasa
+248,Supplier 248,Sparepart
+249,Supplier 249,Bahan Bakar
+250,Supplier 250,Jasa
+251,Supplier 251,Bahan Bakar
+252,Supplier 252,Jasa
+253,Supplier 253,Jasa
+254,Supplier 254,Jasa
+255,Supplier 255,Bahan Bakar
+256,Supplier 256,Bahan Bakar
+257,Supplier 257,Sparepart
+258,Supplier 258,Bahan Bakar
+259,Supplier 259,Bahan Bakar
+260,Supplier 260,Sparepart
+261,Supplier 261,Sparepart
+262,Supplier 262,Bahan Bakar
+263,Supplier 263,Jasa
+264,Supplier 264,Bahan Bakar
+265,Supplier 265,Bahan Bakar
+266,Supplier 266,Jasa
+267,Supplier 267,Bahan Bakar
+268,Supplier 268,Sparepart
+269,Supplier 269,Sparepart
+270,Supplier 270,Bahan Bakar
+271,Supplier 271,Bahan Bakar
+272,Supplier 272,Bahan Bakar
+273,Supplier 273,Jasa
+274,Supplier 274,Bahan Bakar
+275,Supplier 275,Jasa
+276,Supplier 276,Bahan Bakar
+277,Supplier 277,Sparepart
+278,Supplier 278,Jasa
+279,Supplier 279,Jasa
+280,Supplier 280,Jasa
+281,Supplier 281,Jasa
+282,Supplier 282,Jasa
+283,Supplier 283,Bahan Bakar
+284,Supplier 284,Bahan Bakar
+285,Supplier 285,Jasa
+286,Supplier 286,Sparepart
+287,Supplier 287,Bahan Bakar
+288,Supplier 288,Sparepart
+289,Supplier 289,Jasa
+290,Supplier 290,Bahan Bakar
+291,Supplier 291,Sparepart
+292,Supplier 292,Bahan Bakar
+293,Supplier 293,Bahan Bakar
+294,Supplier 294,Bahan Bakar
+295,Supplier 295,Sparepart
+296,Supplier 296,Sparepart
+297,Supplier 297,Jasa
+298,Supplier 298,Sparepart
+299,Supplier 299,Jasa
+300,Supplier 300,Bahan Bakar
+301,Supplier 301,Jasa
+302,Supplier 302,Jasa
+303,Supplier 303,Bahan Bakar
+304,Supplier 304,Sparepart
+305,Supplier 305,Jasa
+306,Supplier 306,Jasa
+307,Supplier 307,Jasa
+308,Supplier 308,Bahan Bakar
+309,Supplier 309,Jasa
+310,Supplier 310,Jasa
+311,Supplier 311,Bahan Bakar
+312,Supplier 312,Jasa
+313,Supplier 313,Bahan Bakar
+314,Supplier 314,Sparepart
+315,Supplier 315,Jasa
+316,Supplier 316,Sparepart
+317,Supplier 317,Bahan Bakar
+318,Supplier 318,Jasa
+319,Supplier 319,Bahan Bakar
+320,Supplier 320,Sparepart
+321,Supplier 321,Sparepart
+322,Supplier 322,Jasa
+323,Supplier 323,Jasa
+324,Supplier 324,Jasa
+325,Supplier 325,Bahan Bakar
+326,Supplier 326,Sparepart
+327,Supplier 327,Jasa
+328,Supplier 328,Bahan Bakar
+329,Supplier 329,Bahan Bakar
+330,Supplier 330,Bahan Bakar
+331,Supplier 331,Jasa
+332,Supplier 332,Sparepart
+333,Supplier 333,Jasa
+334,Supplier 334,Bahan Bakar
+335,Supplier 335,Jasa
+336,Supplier 336,Bahan Bakar
+337,Supplier 337,Bahan Bakar
+338,Supplier 338,Sparepart
+339,Supplier 339,Bahan Bakar
+340,Supplier 340,Jasa
+341,Supplier 341,Sparepart
+342,Supplier 342,Sparepart
+343,Supplier 343,Jasa
+344,Supplier 344,Bahan Bakar
+345,Supplier 345,Bahan Bakar
+346,Supplier 346,Bahan Bakar
+347,Supplier 347,Sparepart
+348,Supplier 348,Jasa
+349,Supplier 349,Sparepart
+350,Supplier 350,Sparepart
+351,Supplier 351,Bahan Bakar
+352,Supplier 352,Jasa
+353,Supplier 353,Bahan Bakar
+354,Supplier 354,Sparepart
+355,Supplier 355,Jasa
+356,Supplier 356,Bahan Bakar
+357,Supplier 357,Jasa
+358,Supplier 358,Sparepart
+359,Supplier 359,Sparepart
+360,Supplier 360,Sparepart
+361,Supplier 361,Bahan Bakar
+362,Supplier 362,Sparepart
+363,Supplier 363,Bahan Bakar
+364,Supplier 364,Jasa
+365,Supplier 365,Bahan Bakar
+366,Supplier 366,Sparepart
+367,Supplier 367,Jasa
+368,Supplier 368,Sparepart
+369,Supplier 369,Sparepart
+370,Supplier 370,Jasa
+371,Supplier 371,Jasa
+372,Supplier 372,Bahan Bakar
+373,Supplier 373,Sparepart
+374,Supplier 374,Sparepart
+375,Supplier 375,Sparepart
+376,Supplier 376,Jasa
+377,Supplier 377,Jasa
+378,Supplier 378,Bahan Bakar
+379,Supplier 379,Jasa
+380,Supplier 380,Bahan Bakar
+381,Supplier 381,Bahan Bakar
+382,Supplier 382,Bahan Bakar
+383,Supplier 383,Jasa
+384,Supplier 384,Bahan Bakar
+385,Supplier 385,Sparepart
+386,Supplier 386,Sparepart
+387,Supplier 387,Sparepart
+388,Supplier 388,Sparepart
+389,Supplier 389,Bahan Bakar
+390,Supplier 390,Bahan Bakar
+391,Supplier 391,Sparepart
+392,Supplier 392,Bahan Bakar
+393,Supplier 393,Jasa
+394,Supplier 394,Sparepart
+395,Supplier 395,Sparepart
+396,Supplier 396,Jasa
+397,Supplier 397,Bahan Bakar
+398,Supplier 398,Jasa
+399,Supplier 399,Jasa
+400,Supplier 400,Bahan Bakar
+401,Supplier 401,Sparepart
+402,Supplier 402,Jasa
+403,Supplier 403,Jasa
+404,Supplier 404,Jasa
+405,Supplier 405,Jasa
+406,Supplier 406,Jasa
+407,Supplier 407,Bahan Bakar
+408,Supplier 408,Bahan Bakar
+409,Supplier 409,Sparepart
+410,Supplier 410,Sparepart
+411,Supplier 411,Sparepart
+412,Supplier 412,Sparepart
+413,Supplier 413,Bahan Bakar
+414,Supplier 414,Bahan Bakar
+415,Supplier 415,Jasa
+416,Supplier 416,Jasa
+417,Supplier 417,Jasa
+418,Supplier 418,Bahan Bakar
+419,Supplier 419,Sparepart
+420,Supplier 420,Jasa
+421,Supplier 421,Sparepart
+422,Supplier 422,Sparepart
+423,Supplier 423,Sparepart
+424,Supplier 424,Bahan Bakar
+425,Supplier 425,Sparepart
+426,Supplier 426,Bahan Bakar
+427,Supplier 427,Sparepart
+428,Supplier 428,Bahan Bakar
+429,Supplier 429,Sparepart
+430,Supplier 430,Bahan Bakar
+431,Supplier 431,Sparepart
+432,Supplier 432,Bahan Bakar
+433,Supplier 433,Bahan Bakar
+434,Supplier 434,Sparepart
+435,Supplier 435,Sparepart
+436,Supplier 436,Sparepart
+437,Supplier 437,Sparepart
+438,Supplier 438,Jasa
+439,Supplier 439,Bahan Bakar
+440,Supplier 440,Bahan Bakar
+441,Supplier 441,Jasa
+442,Supplier 442,Sparepart
+443,Supplier 443,Sparepart
+444,Supplier 444,Jasa
+445,Supplier 445,Sparepart
+446,Supplier 446,Sparepart
+447,Supplier 447,Jasa
+448,Supplier 448,Bahan Bakar
+449,Supplier 449,Sparepart
+450,Supplier 450,Sparepart
+451,Supplier 451,Sparepart
+452,Supplier 452,Jasa
+453,Supplier 453,Bahan Bakar
+454,Supplier 454,Bahan Bakar
+455,Supplier 455,Jasa
+456,Supplier 456,Sparepart
+457,Supplier 457,Bahan Bakar
+458,Supplier 458,Sparepart
+459,Supplier 459,Jasa
+460,Supplier 460,Sparepart
+461,Supplier 461,Bahan Bakar
+462,Supplier 462,Sparepart
+463,Supplier 463,Jasa
+464,Supplier 464,Sparepart
+465,Supplier 465,Bahan Bakar
+466,Supplier 466,Bahan Bakar
+467,Supplier 467,Bahan Bakar
+468,Supplier 468,Sparepart
+469,Supplier 469,Sparepart
+470,Supplier 470,Sparepart
+471,Supplier 471,Bahan Bakar
+472,Supplier 472,Jasa
+473,Supplier 473,Bahan Bakar
+474,Supplier 474,Sparepart
+475,Supplier 475,Bahan Bakar
+476,Supplier 476,Jasa
+477,Supplier 477,Jasa
+478,Supplier 478,Sparepart
+479,Supplier 479,Sparepart
+480,Supplier 480,Bahan Bakar
+481,Supplier 481,Sparepart
+482,Supplier 482,Bahan Bakar
+483,Supplier 483,Bahan Bakar
+484,Supplier 484,Jasa
+485,Supplier 485,Jasa
+486,Supplier 486,Sparepart
+487,Supplier 487,Jasa
+488,Supplier 488,Bahan Bakar
+489,Supplier 489,Sparepart
+490,Supplier 490,Sparepart
+491,Supplier 491,Jasa
+492,Supplier 492,Bahan Bakar
+493,Supplier 493,Jasa
+494,Supplier 494,Bahan Bakar
+495,Supplier 495,Jasa
+496,Supplier 496,Bahan Bakar
+497,Supplier 497,Jasa
+498,Supplier 498,Jasa
+499,Supplier 499,Jasa
+500,Supplier 500,Sparepart
