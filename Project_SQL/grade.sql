@@ -4,6 +4,8 @@ WITH data_teragregasi_per_pit AS (
         SUM(prod.volume_ton) AS total_volume_pit,
         SUM(prod.biaya_operasional_terkait) AS total_biaya_pit
     FROM produksi prod
+    WHERE
+        prod.jenis_produksi = 'Ore'
     GROUP BY prod.pit_id
 ),
 
